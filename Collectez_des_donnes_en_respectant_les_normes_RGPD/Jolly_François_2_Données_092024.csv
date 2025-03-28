@@ -1,0 +1,1159 @@
+Index;sexe;Tranche Age;enfant_conduite_accompagne;enfants;Tranche Revenu;formation;usage_vehicule;type_vehicule;points_perdus;age_vehicule;type_conduite;date_demande;formule;Tranche Tarifaire ;code postal
+0;F;Jeune : moins de 25 ans;Aucun;VRAI;>120K;Bachelors;Commercial;Sports Car;Faible;7.0;Highly Urban/ Urban;25/02/2022 16:13;dev_integral;Moyenne;40180
+1;F;Senior : 65 ans et plus;Un;VRAI;[40K - 60K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;24/05/2022 21:07;dev_express;Basse;3000
+2;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;4.0;Highly Rural/ Rural;24/01/2022 08:17;dev_express;Basse;4800
+3;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;5.0;Highly Urban/ Urban;20/04/2022 03:46;dev_integral;Moyenne;6370
+4;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Commercial;Panel Truck;Moyen;12.0;Highly Urban/ Urban;23/03/2022 01:32;dev_vip;Elevée;19100
+5;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;SUV;Moyen;15.0;Highly Rural/ Rural;23/03/2022 22:20;dev_premium;Moyenne;70250
+6;F;Senior : 65 ans et plus;Plusieurs;VRAI;>120K;Bachelors;Commercial;Minivan;Faible;9.0;Highly Rural/ Rural;13/03/2022 01:10;dev_express;Basse;58000
+7;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;SUV;Faible;10.0;Highly Urban/ Urban;09/03/2022 03:43;dev_premium;Moyenne;73460
+8;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Private;Minivan;Faible;14.0;Highly Urban/ Urban;29/01/2022 10:17;dev_premium;Moyenne;30800
+9;F;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Bachelors;Commercial;Panel Truck;Faible;10.0;Highly Urban/ Urban;26/03/2022 07:37;dev_integral;Moyenne;47510
+10;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;Bachelors;Private;Minivan;Faible;10.0;Highly Urban/ Urban;26/05/2022 05:51;dev_express;Basse;83500
+11;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;27/01/2022 09:33;dev_premium;Moyenne;
+12;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;PhD;Private;SUV;Faible;18.0;Highly Urban/ Urban;08/05/2022 13:32;dev_express;Basse;23800
+13;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Van;Moyen;6.0;Highly Rural/ Rural;02/05/2022 08:44;dev_integral;Moyenne;13080
+14;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;15/04/2022 13:09;dev_integral;Moyenne;68790
+15;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;13.0;Highly Urban/ Urban;11/05/2022 02:24;dev_express;Basse;81100
+16;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;15.0;Highly Urban/ Urban;12/04/2022 01:20;dev_integral;Moyenne;75018
+17;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Van;Faible;8.0;Highly Urban/ Urban;04/03/2022 09:15;dev_express;Basse;78210
+18;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Faible;11.0;Highly Urban/ Urban;05/02/2022 17:39;dev_express;Basse;95470
+19;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;SUV;Faible;10.0;Highly Urban/ Urban;25/04/2022 14:43;dev_integral;Basse;16410
+20;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Masters;Private;Minivan;Faible;16.0;Highly Rural/ Rural;20/03/2022 03:44;dev_express;Basse;2270
+21;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;;Highly Urban/ Urban;27/03/2022 09:22;dev_premium;Moyenne;69100
+22;F;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;High School;Commercial;Van;Faible;7.0;Highly Urban/ Urban;16/05/2022 02:39;dev_premium;Moyenne;46000
+23;F;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;High School;Commercial;Sports Car;Moyen;1.0;Highly Urban/ Urban;06/02/2022 07:52;dev_premium;Moyenne;33700
+24;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;27/04/2022 15:06;dev_express;Basse;93380
+25;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;High School;Private;Minivan;Faible;;Highly Rural/ Rural;13/04/2022 00:52;dev_express;Basse;18000
+26;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Sports Car;Faible;1.0;Highly Rural/ Rural;22/03/2022 13:32;dev_integral;Basse;53950
+27;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Moyen;;Highly Urban/ Urban;22/04/2022 03:39;dev_integral;Basse;87510
+28;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;23/03/2022 22:44;dev_vip;Elevée;95220
+29;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;17.0;Highly Urban/ Urban;12/02/2022 20:23;dev_premium;Moyenne;23100
+30;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;14/01/2022 07:11;dev_express;Basse;60500
+31;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Minivan;Moyen;5.0;Highly Rural/ Rural;09/04/2022 11:49;dev_integral;Moyenne;58200
+32;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Moyen;9.0;Highly Urban/ Urban;23/03/2022 06:12;dev_express;Basse;70130
+33;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Rural/ Rural;04/02/2022 17:14;dev_premium;Moyenne;49610
+34;M;Adulte : 25-64 ans;Un;VRAI;[60K - 80K[;Masters;Private;Sports Car;Faible;12.0;Highly Urban/ Urban;05/02/2022 18:50;dev_express;Basse;2240
+35;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;9.0;Highly Urban/ Urban;08/02/2022 09:59;dev_integral;Moyenne;74290
+36;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Sports Car;Faible;15.0;Highly Urban/ Urban;06/02/2022 22:30;dev_express;Basse;74500
+37;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;SUV;Moyen;14.0;Highly Urban/ Urban;09/02/2022 14:28;dev_integral;Basse;93240
+38;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;26/05/2022 21:39;dev_integral;Basse;25400
+39;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Faible;11.0;Highly Rural/ Rural;04/03/2022 15:36;dev_premium;Moyenne;88260
+40;F;Jeune : moins de 25 ans;Plusieurs;VRAI;Non connu;Bachelors;Private;Sports Car;Faible;10.0;Highly Urban/ Urban;31/05/2022 13:11;dev_express;Basse;95490
+41;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;8.0;Highly Urban/ Urban;30/04/2022 23:20;dev_express;Basse;83370
+42;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;Pickup;Faible;10.0;Highly Urban/ Urban;20/03/2022 04:00;dev_express;Basse;10000
+43;F;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Private;Pickup;Faible;;Highly Urban/ Urban;02/04/2022 11:25;dev_premium;Moyenne;58180
+44;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Faible;13.0;Highly Urban/ Urban;02/01/2022 20:05;dev_integral;Moyenne;90300
+45;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Moyen;15.0;Highly Urban/ Urban;24/02/2022 21:52;dev_express;Basse;23000
+46;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;05/04/2022 02:47;dev_express;Basse;92140
+47;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Faible;13.0;Highly Urban/ Urban;21/02/2022 11:50;dev_integral;Moyenne;25400
+48;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Faible;7.0;Highly Urban/ Urban;21/03/2022 00:37;dev_integral;Basse;27400
+49;F;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Private;Van;Faible;1.0;Highly Rural/ Rural;03/04/2022 12:30;dev_integral;Basse;56600
+50;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;28/03/2022 23:57;dev_integral;Moyenne;53000
+51;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;5.0;Highly Urban/ Urban;21/03/2022 07:59;dev_express;Basse;49280
+52;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;7.0;Highly Urban/ Urban;23/05/2022 09:33;dev_express;Basse;66000
+53;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Sports Car;Faible;19.0;Highly Urban/ Urban;03/05/2022 20:20;dev_express;Basse;11170
+54;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Minivan;Moyen;8.0;Highly Rural/ Rural;11/04/2022 14:51;dev_express;Basse;61110
+55;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;PhD;Private;Van;Faible;13.0;Highly Urban/ Urban;05/01/2022 09:29;dev_premium;Moyenne;7100
+56;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;Masters;Commercial;Van;Moyen;9.0;Highly Urban/ Urban;14/05/2022 13:46;dev_integral;Basse;42410
+57;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;12.0;Highly Urban/ Urban;20/04/2022 10:04;dev_express;Basse;75002
+58;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Van;Faible;1.0;Highly Urban/ Urban;22/01/2022 11:01;dev_express;Basse;42170
+59;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Sports Car;Faible;7.0;Highly Urban/ Urban;26/04/2022 16:17;dev_express;Basse;81270
+60;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;23/03/2022 15:45;dev_integral;Basse;54460
+61;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Pickup;Faible;8.0;Highly Urban/ Urban;27/04/2022 03:37;dev_express;Basse;62470
+62;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Van;Faible;5.0;Highly Urban/ Urban;24/05/2022 02:44;dev_integral;Basse;63800
+63;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;09/05/2022 23:43;dev_express;Basse;46110
+64;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;6.0;Highly Urban/ Urban;22/04/2022 08:38;dev_integral;Basse;50110
+65;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;17/05/2022 07:36;dev_express;Basse;33270
+66;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Pickup;Faible;7.0;Highly Urban/ Urban;01/05/2022 22:37;dev_express;Basse;56160
+67;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;5.0;Highly Rural/ Rural;29/05/2022 10:50;dev_express;Basse;93500
+68;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Bachelors;Private;SUV;Moyen;13.0;Highly Urban/ Urban;04/04/2022 09:48;dev_express;Basse;23000
+69;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Pickup;Faible;3.0;Highly Urban/ Urban;27/01/2022 21:31;dev_integral;Moyenne;58640
+70;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Faible;9.0;Highly Urban/ Urban;13/01/2022 03:29;dev_integral;Moyenne;43120
+71;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;SUV;Moyen;12.0;Highly Urban/ Urban;08/01/2022 11:18;dev_express;Basse;82000
+72;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Moyen;9.0;Highly Urban/ Urban;05/04/2022 09:02;dev_integral;Basse;56300
+73;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;High School;Private;Minivan;Moyen;9.0;Highly Rural/ Rural;14/02/2022 02:00;dev_premium;Moyenne;17590
+74;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Pickup;Faible;8.0;Highly Urban/ Urban;14/01/2022 13:12;dev_express;Basse;39220
+75;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;18.0;Highly Urban/ Urban;20/04/2022 02:38;dev_integral;Moyenne;20290
+76;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;10/05/2022 13:40;dev_express;Basse;1000
+77;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Panel Truck;Moyen;11.0;Highly Urban/ Urban;24/01/2022 17:35;dev_premium;Moyenne;47240
+78;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Moyen;6.0;Highly Urban/ Urban;01/02/2022 04:48;dev_express;Basse;31130
+79;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;20/04/2022 07:29;dev_premium;Moyenne;48200
+80;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;3.0;Highly Rural/ Rural;02/01/2022 10:07;dev_express;Basse;90300
+81;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;Van;Faible;8.0;Highly Rural/ Rural;18/02/2022 08:51;dev_express;Basse;4180
+82;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;SUV;Faible;4.0;Highly Urban/ Urban;27/04/2022 19:14;dev_express;Basse;1440
+83;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;;Highly Rural/ Rural;09/05/2022 03:37;dev_express;Basse;31770
+84;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Moyen;8.0;Highly Urban/ Urban;14/01/2022 21:13;dev_express;Basse;61250
+85;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;9.0;Highly Urban/ Urban;30/03/2022 13:20;dev_express;Basse;58260
+86;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Masters;Private;Minivan;Faible;17.0;Highly Urban/ Urban;25/01/2022 00:58;dev_premium;Moyenne;9000
+87;F;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;28/05/2022 07:13;dev_express;Basse;48000
+88;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;13.0;Highly Urban/ Urban;12/02/2022 08:10;dev_premium;Moyenne;42390
+89;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;Masters;Private;Sports Car;Faible;2.0;Highly Rural/ Rural;11/01/2022 16:57;dev_integral;Basse;41400
+90;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;15/04/2022 05:20;dev_express;Basse;67600
+91;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;28/03/2022 10:41;dev_premium;Moyenne;80480
+92;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;High School;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;26/02/2022 21:26;dev_premium;Moyenne;4300
+93;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Van;Faible;1.0;Highly Urban/ Urban;17/01/2022 08:39;dev_express;Basse;55310
+94;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Pickup;Moyen;11.0;Highly Urban/ Urban;16/04/2022 00:13;dev_integral;Basse;84110
+95;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;5.0;Highly Rural/ Rural;12/01/2022 03:39;dev_integral;Moyenne;74500
+96;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;23/03/2022 01:48;dev_express;Basse;45000
+97;F;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;6.0;Highly Urban/ Urban;17/04/2022 15:27;dev_integral;Basse;40000
+98;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;PhD;Private;Van;Faible;8.0;Highly Urban/ Urban;05/05/2022 04:13;dev_integral;Moyenne;12630
+99;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;High School;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;28/02/2022 07:30;dev_integral;Moyenne;49125
+100;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Masters;Commercial;Pickup;Moyen;12.0;Highly Urban/ Urban;12/02/2022 17:39;dev_integral;Moyenne;64130
+101;F;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;07/01/2022 19:37;dev_integral;Moyenne;1090
+102;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Bachelors;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;07/01/2022 13:02;dev_integral;Moyenne;19100
+103;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Moyen;17.0;Highly Urban/ Urban;12/01/2022 00:08;dev_express;Basse;12000
+104;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Faible;12.0;Highly Urban/ Urban;24/05/2022 14:39;dev_premium;Moyenne;5330
+105;M;Jeune : moins de 25 ans;Aucun;VRAI;Non connu;PhD;Commercial;Panel Truck;Faible;14.0;Highly Urban/ Urban;25/03/2022 12:49;dev_integral;Basse;86280
+106;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;5.0;Highly Urban/ Urban;02/01/2022 00:52;dev_integral;Moyenne;37130
+107;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Minivan;Faible;12.0;Highly Rural/ Rural;01/03/2022 04:35;dev_integral;Moyenne;28140
+108;F;Adulte : 25-64 ans;Aucun;VRAI;>120K;Bachelors;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;28/01/2022 11:20;dev_express;Basse;48220
+109;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;9.0;Highly Urban/ Urban;29/04/2022 08:01;dev_premium;Moyenne;29820
+110;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;SUV;Faible;9.0;Highly Urban/ Urban;20/01/2022 00:10;dev_integral;Basse;31120
+111;M;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;12.0;Highly Urban/ Urban;06/05/2022 14:07;dev_express;Basse;13140
+112;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;8.0;Highly Urban/ Urban;14/03/2022 17:19;dev_express;Basse;45380
+113;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;Minivan;Moyen;6.0;Highly Urban/ Urban;20/03/2022 10:44;dev_express;Basse;70800
+114;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;14.0;Highly Urban/ Urban;18/01/2022 01:43;dev_premium;Moyenne;41290
+115;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;23/01/2022 11:52;dev_premium;Moyenne;84740
+116;F;Senior : 65 ans et plus;Un;VRAI;[40K - 60K[;Bachelors;Private;Sports Car;Faible;11.0;Highly Rural/ Rural;07/01/2022 23:42;dev_express;Basse;20290
+117;F;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;7.0;Highly Urban/ Urban;02/01/2022 23:14;dev_integral;Moyenne;30190
+118;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[40K - 60K[;High School;Commercial;Sports Car;Moyen;1.0;Highly Urban/ Urban;23/05/2022 03:25;dev_integral;Moyenne;74150
+119;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;29/05/2022 09:22;dev_integral;Moyenne;4220
+120;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;PhD;Private;SUV;Faible;13.0;Highly Rural/ Rural;09/02/2022 09:54;dev_integral;Moyenne;93700
+121;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;17/02/2022 21:50;dev_express;Basse;28300
+122;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;12.0;Highly Urban/ Urban;06/05/2022 08:05;dev_integral;Moyenne;88110
+123;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Pickup;Faible;11.0;Highly Urban/ Urban;25/01/2022 10:57;dev_integral;Moyenne;1800
+124;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Masters;Private;Van;Moyen;9.0;Highly Urban/ Urban;01/01/2022 10:42;dev_integral;Moyenne;42400
+125;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;8.0;Highly Urban/ Urban;02/04/2022 23:05;dev_integral;Basse;4000
+126;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;14/04/2022 03:03;dev_integral;Basse;81100
+127;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Moyen;1.0;Highly Rural/ Rural;07/03/2022 01:04;dev_express;Basse;75015
+128;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Sports Car;Faible;;Highly Urban/ Urban;04/04/2022 21:37;dev_premium;Moyenne;66220
+129;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;13.0;Highly Urban/ Urban;20/04/2022 04:58;dev_express;Basse;12800
+130;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Faible;13.0;Highly Urban/ Urban;25/02/2022 11:43;dev_express;Basse;61110
+131;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Elevé;9.0;Highly Urban/ Urban;28/05/2022 00:32;dev_vip;Elevée;21800
+132;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;18/03/2022 05:26;dev_express;Basse;88300
+133;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;5.0;Highly Urban/ Urban;25/02/2022 19:06;dev_express;Basse;17600
+134;F;Jeune : moins de 25 ans;Un;VRAI;[40K - 60K[;Bachelors;Private;SUV;Faible;9.0;Highly Urban/ Urban;08/04/2022 14:50;dev_integral;Basse;74250
+135;F;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;01/05/2022 13:47;dev_integral;Moyenne;48200
+136;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Van;Moyen;15.0;Highly Urban/ Urban;27/03/2022 09:47;dev_integral;Moyenne;10600
+137;M;Adulte : 25-64 ans;Plusieurs;VRAI;>120K;Masters;Commercial;Van;Moyen;9.0;Highly Urban/ Urban;11/05/2022 02:14;dev_express;Basse;47300
+138;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;31/05/2022 03:31;dev_express;Basse;52100
+139;F;Adulte : 25-64 ans;Aucun;VRAI;Non connu;High School;Private;Sports Car;Moyen;7.0;Highly Urban/ Urban;24/04/2022 23:44;dev_premium;Moyenne;72170
+140;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;Sports Car;Moyen;9.0;Highly Urban/ Urban;06/03/2022 04:31;dev_integral;Moyenne;44420
+141;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;9.0;Highly Urban/ Urban;18/02/2022 17:27;dev_integral;Basse;79000
+142;F;Jeune : moins de 25 ans;Aucun;VRAI;>120K;Bachelors;Private;Pickup;Faible;12.0;Highly Urban/ Urban;05/01/2022 05:06;dev_integral;Moyenne;10120
+143;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;SUV;Moyen;15.0;Highly Urban/ Urban;19/02/2022 05:07;dev_premium;Moyenne;11120
+144;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;;Highly Urban/ Urban;21/05/2022 17:06;dev_express;Basse;46000
+145;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Moyen;11.0;Highly Urban/ Urban;13/05/2022 05:41;dev_express;Basse;78800
+146;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;7.0;Highly Urban/ Urban;20/02/2022 18:23;dev_integral;Moyenne;74930
+147;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;SUV;Faible;10.0;Highly Rural/ Rural;16/04/2022 08:28;dev_integral;Basse;25000
+148;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;19.0;Highly Urban/ Urban;03/03/2022 11:37;dev_integral;Basse;23600
+149;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;15.0;Highly Rural/ Rural;26/02/2022 20:58;dev_express;Basse;71400
+150;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;10.0;Highly Urban/ Urban;19/02/2022 07:35;dev_integral;Moyenne;42300
+151;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;5.0;Highly Urban/ Urban;05/03/2022 12:14;dev_express;Basse;46100
+152;F;Adulte : 25-64 ans;Aucun;VRAI;Non connu;PhD;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;11/01/2022 23:53;dev_express;Basse;35590
+153;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;4.0;Highly Urban/ Urban;25/03/2022 21:08;dev_express;Basse;80400
+154;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;9.0;Highly Rural/ Rural;22/02/2022 18:20;dev_integral;Basse;91100
+155;M;Senior : 65 ans et plus;Plusieurs;VRAI;>120K;PhD;Commercial;Van;Faible;12.0;Highly Urban/ Urban;14/01/2022 04:38;dev_integral;Moyenne;35300
+156;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;4.0;Highly Urban/ Urban;08/04/2022 21:31;dev_express;Basse;81000
+157;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Private;Pickup;Faible;15.0;Highly Urban/ Urban;17/04/2022 13:11;dev_integral;Moyenne;28700
+158;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;9.0;Highly Rural/ Rural;14/05/2022 20:36;dev_integral;Moyenne;49000
+159;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;02/02/2022 00:42;dev_integral;Basse;66000
+160;M;Senior : 65 ans et plus;Un;VRAI;[80K - 120K[;Bachelors;Private;Sports Car;Faible;8.0;Highly Urban/ Urban;21/05/2022 22:35;dev_integral;Basse;95610
+161;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Moyen;12.0;Highly Urban/ Urban;09/03/2022 16:06;dev_premium;Moyenne;24100
+162;F;Adulte : 25-64 ans;Plusieurs;VRAI;>120K;Masters;Private;Minivan;Faible;12.0;Highly Rural/ Rural;27/02/2022 09:10;dev_integral;Moyenne;70100
+163;F;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Masters;Private;Minivan;Faible;14.0;Highly Urban/ Urban;03/04/2022 03:15;dev_integral;Moyenne;44320
+164;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Sports Car;Faible;8.0;Highly Rural/ Rural;02/04/2022 11:55;dev_express;Basse;66370
+165;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;08/04/2022 07:47;dev_express;Basse;24100
+166;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Masters;Private;Sports Car;Faible;17.0;Highly Urban/ Urban;31/05/2022 15:46;dev_integral;Basse;33000
+167;F;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;Pickup;Faible;4.0;Highly Urban/ Urban;16/05/2022 17:40;dev_integral;Basse;59290
+168;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Faible;;Highly Urban/ Urban;22/04/2022 13:14;dev_integral;Basse;14400
+169;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Moyen;11.0;Highly Urban/ Urban;30/05/2022 08:43;dev_integral;Moyenne;92110
+170;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Pickup;Faible;11.0;Highly Urban/ Urban;01/02/2022 00:03;dev_express;Basse;25000
+171;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;31/05/2022 16:23;dev_integral;Moyenne;4370
+172;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;11.0;Highly Rural/ Rural;16/02/2022 07:07;dev_integral;Moyenne;34400
+173;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;PhD;Private;Minivan;Faible;20.0;Highly Urban/ Urban;21/05/2022 22:01;dev_integral;Moyenne;90100
+174;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;26/04/2022 15:07;dev_express;Basse;42800
+175;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Pickup;Moyen;;Highly Urban/ Urban;14/01/2022 19:18;dev_integral;Basse;11220
+176;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Van;Faible;12.0;Highly Urban/ Urban;16/02/2022 23:39;dev_express;Basse;62217
+177;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Masters;Private;Sports Car;Faible;16.0;Highly Urban/ Urban;01/01/2022 22:26;dev_express;Basse;14220
+178;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;14/01/2022 11:21;dev_integral;Basse;26000
+179;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;Van;Faible;6.0;Highly Urban/ Urban;10/05/2022 08:25;dev_premium;Moyenne;7700
+180;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Pickup;Faible;;Highly Urban/ Urban;02/05/2022 22:21;dev_express;Basse;13080
+181;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[0 - 40K[;High School;Commercial;Van;Faible;6.0;Highly Rural/ Rural;10/02/2022 04:16;dev_express;Basse;56340
+182;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Bachelors;Commercial;Panel Truck;Faible;13.0;Highly Rural/ Rural;08/01/2022 11:44;dev_integral;Moyenne;16120
+183;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Private;Van;Faible;10.0;Highly Urban/ Urban;12/01/2022 23:08;dev_premium;Moyenne;64000
+184;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;1.0;Highly Urban/ Urban;27/05/2022 23:47;dev_express;Basse;
+185;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[40K - 60K[;High School;Commercial;SUV;Moyen;5.0;Highly Urban/ Urban;10/04/2022 22:38;dev_premium;Moyenne;27130
+186;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;23/03/2022 18:01;dev_integral;Moyenne;59142
+187;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;Masters;Private;SUV;Faible;9.0;Highly Urban/ Urban;24/05/2022 20:26;dev_integral;Moyenne;3310
+188;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;05/01/2022 12:35;dev_premium;Moyenne;28000
+189;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;11.0;Highly Urban/ Urban;17/05/2022 21:03;dev_vip;Moyenne;79500
+190;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Van;Moyen;;Highly Urban/ Urban;30/05/2022 12:05;dev_express;Basse;6510
+191;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;25/01/2022 11:38;dev_premium;Moyenne;35000
+192;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Private;Sports Car;Faible;7.0;Highly Rural/ Rural;30/01/2022 11:59;dev_integral;Moyenne;51300
+193;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Panel Truck;Faible;1.0;Highly Urban/ Urban;04/01/2022 16:07;dev_premium;Moyenne;13080
+194;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;SUV;Faible;15.0;Highly Urban/ Urban;11/02/2022 19:58;dev_integral;Moyenne;93100
+195;F;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Private;Sports Car;Moyen;7.0;Highly Urban/ Urban;07/04/2022 02:19;dev_premium;Moyenne;39000
+196;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;PhD;Private;Minivan;Moyen;17.0;Highly Urban/ Urban;09/02/2022 23:54;dev_express;Basse;28300
+197;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Panel Truck;Moyen;13.0;Highly Urban/ Urban;27/04/2022 04:09;dev_express;Basse;48000
+198;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;4.0;Highly Urban/ Urban;25/05/2022 06:02;dev_integral;Moyenne;25200
+199;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Faible;;Highly Rural/ Rural;10/02/2022 21:22;dev_express;Basse;84160
+200;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Sports Car;Elevé;8.0;Highly Urban/ Urban;14/03/2022 03:24;dev_express;Basse;42680
+201;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Commercial;Pickup;Moyen;7.0;Highly Urban/ Urban;11/05/2022 10:53;dev_integral;Moyenne;37800
+202;M;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Commercial;Minivan;Faible;1.0;Highly Urban/ Urban;09/04/2022 06:44;dev_premium;Moyenne;9500
+203;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;SUV;Moyen;14.0;Highly Rural/ Rural;14/04/2022 10:57;dev_premium;Moyenne;27310
+204;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;7.0;Highly Urban/ Urban;18/04/2022 10:41;dev_express;Basse;80430
+205;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Minivan;Faible;1.0;Highly Urban/ Urban;23/03/2022 00:19;dev_express;Basse;4800
+206;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Minivan;Moyen;;Highly Urban/ Urban;09/05/2022 19:49;dev_integral;Moyenne;51000
+207;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Minivan;Faible;12.0;Highly Rural/ Rural;04/02/2022 03:00;dev_express;Basse;52100
+208;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Panel Truck;Faible;8.0;Highly Urban/ Urban;19/04/2022 01:02;dev_premium;Moyenne;20000
+209;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;5.0;Highly Rural/ Rural;03/04/2022 22:13;dev_integral;Moyenne;91390
+210;F;Jeune : moins de 25 ans;Un;VRAI;[40K - 60K[;Bachelors;Private;Minivan;Faible;8.0;Highly Rural/ Rural;18/01/2022 05:21;dev_integral;Basse;24130
+211;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Commercial;Panel Truck;Faible;16.0;Highly Urban/ Urban;23/03/2022 16:17;dev_express;Basse;1190
+212;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;PhD;Private;SUV;Faible;;Highly Urban/ Urban;02/05/2022 16:43;dev_integral;Basse;58490
+213;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Van;Faible;5.0;Highly Urban/ Urban;19/01/2022 00:38;dev_express;Basse;9100
+214;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;Van;Moyen;;Highly Urban/ Urban;15/02/2022 23:41;dev_integral;Basse;47300
+215;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;13.0;Highly Urban/ Urban;03/01/2022 06:55;dev_premium;Moyenne;56860
+216;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Pickup;Moyen;6.0;Highly Urban/ Urban;27/03/2022 02:40;dev_express;Basse;1000
+217;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Elevé;19.0;Highly Urban/ Urban;02/04/2022 14:20;dev_premium;Moyenne;92250
+218;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;30/04/2022 22:44;dev_premium;Moyenne;82100
+219;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;07/04/2022 11:09;dev_integral;Moyenne;40600
+220;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;PhD;Private;Sports Car;Faible;16.0;Highly Urban/ Urban;22/01/2022 06:45;dev_integral;Moyenne;68270
+221;M;Senior : 65 ans et plus;Un;VRAI;Non connu;PhD;Commercial;Pickup;Faible;18.0;Highly Rural/ Rural;07/05/2022 03:05;dev_integral;Moyenne;93100
+222;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;3.0;Highly Urban/ Urban;07/01/2022 07:53;dev_premium;Moyenne;23210
+223;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;SUV;Moyen;5.0;Highly Urban/ Urban;05/01/2022 18:21;dev_integral;Moyenne;41700
+224;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Minivan;Faible;1.0;Highly Urban/ Urban;13/05/2022 15:01;dev_integral;Moyenne;79000
+225;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Bachelors;Private;Minivan;Moyen;10.0;Highly Urban/ Urban;11/05/2022 05:29;dev_express;Basse;30129
+226;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Moyen;9.0;Highly Urban/ Urban;29/03/2022 05:23;dev_integral;Moyenne;74500
+227;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;3.0;Highly Rural/ Rural;12/02/2022 09:30;dev_premium;Moyenne;12800
+228;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;18/03/2022 03:20;dev_premium;Moyenne;59495
+229;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;25/01/2022 12:09;dev_express;Basse;9000
+230;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Moyen;;Highly Urban/ Urban;11/05/2022 03:18;dev_express;Basse;11000
+231;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Faible;7.0;Highly Urban/ Urban;04/05/2022 06:00;dev_express;Basse;59580
+232;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;PhD;Private;Minivan;Moyen;;Highly Urban/ Urban;22/01/2022 22:28;dev_express;Basse;18160
+233;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;SUV;Moyen;10.0;Highly Urban/ Urban;06/01/2022 14:38;dev_express;Basse;51530
+234;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;7.0;Highly Rural/ Rural;11/04/2022 02:23;dev_integral;Moyenne;24130
+235;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Masters;Private;Pickup;Faible;16.0;Highly Urban/ Urban;22/03/2022 21:40;dev_integral;Basse;91700
+236;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Faible;15.0;Highly Urban/ Urban;31/03/2022 19:09;dev_premium;Moyenne;43220
+237;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Private;SUV;Faible;15.0;Highly Urban/ Urban;09/03/2022 15:11;dev_integral;Basse;53410
+238;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;07/05/2022 11:43;dev_integral;Basse;8000
+239;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Private;Minivan;Moyen;10.0;Highly Urban/ Urban;24/02/2022 02:03;dev_integral;Moyenne;63430
+240;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;24/05/2022 09:47;dev_express;Basse;14123
+241;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;SUV;Faible;7.0;Highly Urban/ Urban;25/02/2022 23:45;dev_express;Basse;26000
+242;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Pickup;Faible;11.0;Highly Urban/ Urban;29/03/2022 07:38;dev_express;Basse;15210
+243;F;Senior : 65 ans et plus;Un;VRAI;[60K - 80K[;Masters;Private;Sports Car;Moyen;12.0;Highly Urban/ Urban;10/05/2022 14:59;dev_express;Basse;87000
+244;M;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;High School;Private;SUV;Moyen;5.0;Highly Urban/ Urban;14/05/2022 19:19;dev_integral;Basse;38470
+245;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Private;Van;Moyen;12.0;Highly Urban/ Urban;19/01/2022 01:48;dev_integral;Basse;44620
+246;M;Adulte : 25-64 ans;Plusieurs;VRAI;[60K - 80K[;High School;Commercial;Pickup;Faible;7.0;Highly Urban/ Urban;27/05/2022 14:41;dev_premium;Moyenne;65110
+247;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Van;Faible;1.0;Highly Rural/ Rural;13/01/2022 11:51;dev_integral;Moyenne;38150
+248;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;10.0;Highly Urban/ Urban;08/04/2022 01:47;dev_integral;Moyenne;18800
+249;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Moyen;15.0;Highly Urban/ Urban;26/04/2022 15:04;dev_integral;Basse;52000
+250;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;20.0;Highly Urban/ Urban;30/01/2022 17:15;dev_integral;Moyenne;10450
+251;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;SUV;Moyen;12.0;Highly Rural/ Rural;18/05/2022 05:21;dev_express;Basse;88000
+252;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Minivan;Moyen;6.0;Highly Urban/ Urban;27/01/2022 08:09;dev_premium;Moyenne;16130
+253;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Van;Faible;18.0;Highly Urban/ Urban;13/02/2022 22:32;dev_express;Basse;90000
+254;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Faible;8.0;Highly Urban/ Urban;26/04/2022 23:23;dev_integral;Moyenne;89380
+255;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Van;Moyen;;Highly Rural/ Rural;26/05/2022 00:20;dev_premium;Moyenne;3000
+256;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;06/02/2022 07:26;dev_integral;Moyenne;94210
+257;F;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;5.0;Highly Urban/ Urban;05/02/2022 06:43;dev_express;Basse;51000
+258;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;26/03/2022 06:02;dev_premium;Moyenne;84150
+259;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Panel Truck;Moyen;10.0;Highly Urban/ Urban;14/02/2022 17:36;dev_express;Basse;9100
+260;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Moyen;8.0;Highly Urban/ Urban;17/04/2022 16:52;dev_integral;Moyenne;89300
+261;F;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Van;Faible;9.0;Highly Urban/ Urban;12/02/2022 04:17;dev_express;Basse;25110
+262;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Commercial;Pickup;Faible;17.0;Highly Urban/ Urban;20/03/2022 21:08;dev_integral;Basse;34700
+263;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Moyen;10.0;Highly Urban/ Urban;24/03/2022 00:32;dev_express;Basse;30400
+264;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;;Highly Urban/ Urban;28/05/2022 16:57;dev_integral;Moyenne;20240
+265;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Faible;7.0;Highly Urban/ Urban;27/04/2022 16:49;dev_integral;Moyenne;11170
+266;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;1.0;Highly Rural/ Rural;28/01/2022 09:25;dev_premium;Moyenne;46090
+267;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Moyen;11.0;Highly Urban/ Urban;21/03/2022 10:05;dev_express;Basse;32000
+268;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Faible;12.0;Highly Urban/ Urban;07/01/2022 09:45;dev_integral;Moyenne;23800
+269;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Moyen;13.0;Highly Urban/ Urban;15/05/2022 03:11;dev_premium;Moyenne;2400
+270;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Sports Car;Moyen;12.0;Highly Urban/ Urban;09/02/2022 14:04;dev_integral;Moyenne;29750
+271;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Commercial;Pickup;Moyen;13.0;Highly Urban/ Urban;04/02/2022 16:41;dev_express;Basse;93200
+272;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;Van;Moyen;8.0;Highly Urban/ Urban;30/04/2022 22:43;dev_integral;Moyenne;90150
+273;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;High School;Private;Van;Faible;1.0;Highly Urban/ Urban;06/01/2022 19:41;dev_express;Basse;39400
+274;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;Bachelors;Private;SUV;Moyen;1.0;Highly Urban/ Urban;12/04/2022 12:00;dev_express;Basse;14000
+275;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Commercial;Panel Truck;Moyen;10.0;Highly Urban/ Urban;25/04/2022 16:57;dev_express;Basse;57160
+276;M;Adulte : 25-64 ans;Plusieurs;VRAI;[80K - 120K[;Bachelors;Commercial;Pickup;Moyen;8.0;Highly Urban/ Urban;01/01/2022 07:42;dev_integral;Moyenne;
+277;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;16/03/2022 12:46;dev_express;Basse;27570
+278;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Moyen;20.0;Highly Urban/ Urban;20/03/2022 11:43;dev_integral;Moyenne;22740
+279;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Moyen;2.0;Highly Urban/ Urban;20/01/2022 09:01;dev_integral;Basse;64000
+280;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;12.0;Highly Urban/ Urban;10/05/2022 05:21;dev_integral;Moyenne;10800
+281;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;PhD;Private;Sports Car;Moyen;11.0;Highly Urban/ Urban;10/01/2022 01:26;dev_premium;Moyenne;62110
+282;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;High School;Private;Sports Car;Faible;12.0;Highly Rural/ Rural;28/03/2022 12:26;dev_integral;Moyenne;53500
+283;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;13/04/2022 14:44;dev_integral;Moyenne;87700
+284;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Faible;1.0;Highly Urban/ Urban;21/02/2022 23:21;dev_integral;Moyenne;80300
+285;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;15/01/2022 01:35;dev_integral;Moyenne;73000
+286;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;10.0;Highly Rural/ Rural;25/01/2022 15:18;dev_integral;Moyenne;39700
+287;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Private;Minivan;Moyen;7.0;Highly Urban/ Urban;18/01/2022 08:22;dev_integral;Moyenne;40390
+288;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Faible;17.0;Highly Urban/ Urban;15/02/2022 23:56;dev_express;Basse;47310
+289;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Pickup;Faible;14.0;Highly Urban/ Urban;27/01/2022 03:55;dev_premium;Moyenne;56800
+290;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Pickup;Moyen;9.0;Highly Urban/ Urban;18/03/2022 07:40;dev_express;Basse;83000
+291;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Pickup;Faible;8.0;Highly Urban/ Urban;22/03/2022 07:46;dev_integral;Moyenne;87430
+292;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Moyen;;Highly Urban/ Urban;07/03/2022 03:55;dev_integral;Moyenne;56700
+293;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Van;Faible;4.0;Highly Urban/ Urban;18/05/2022 22:10;dev_integral;Moyenne;3100
+294;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;Masters;Private;SUV;Faible;1.0;Highly Urban/ Urban;01/05/2022 17:43;dev_express;Basse;57700
+295;F;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Private;SUV;Faible;11.0;Highly Urban/ Urban;26/05/2022 22:40;dev_integral;Moyenne;32190
+296;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Moyen;;Highly Urban/ Urban;23/04/2022 11:29;dev_premium;Moyenne;28220
+297;F;Senior : 65 ans et plus;Un;VRAI;[80K - 120K[;Bachelors;Private;Minivan;Faible;11.0;Highly Urban/ Urban;27/02/2022 02:58;dev_express;Basse;93800
+298;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Private;Pickup;Moyen;10.0;Highly Urban/ Urban;16/04/2022 10:28;dev_integral;Basse;70400
+299;F;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;Masters;Commercial;Panel Truck;Faible;21.0;Highly Urban/ Urban;21/03/2022 00:34;dev_express;Basse;62217
+300;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Sports Car;Faible;1.0;Highly Rural/ Rural;10/05/2022 09:58;dev_integral;Basse;47800
+301;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;High School;Private;Pickup;Faible;10.0;Highly Rural/ Rural;11/04/2022 21:52;dev_integral;Basse;34210
+302;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;13/05/2022 22:59;dev_express;Basse;82370
+303;F;Senior : 65 ans et plus;Plusieurs;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;26/05/2022 20:49;dev_integral;Moyenne;62420
+304;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Pickup;Faible;10.0;Highly Rural/ Rural;03/03/2022 14:18;dev_express;Basse;72000
+305;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Sports Car;Faible;12.0;Highly Urban/ Urban;26/01/2022 19:37;dev_express;Basse;84000
+306;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Commercial;Pickup;Moyen;20.0;Highly Urban/ Urban;22/01/2022 01:15;dev_express;Basse;46400
+307;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;3.0;Highly Urban/ Urban;25/05/2022 07:24;dev_express;Basse;23200
+308;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Faible;11.0;Highly Urban/ Urban;03/02/2022 17:35;dev_premium;Moyenne;41600
+309;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Moyen;19.0;Highly Urban/ Urban;08/01/2022 02:38;dev_express;Basse;54280
+310;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Minivan;Faible;11.0;Highly Rural/ Rural;02/05/2022 00:05;dev_express;Basse;10800
+311;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Sports Car;Faible;7.0;Highly Urban/ Urban;18/05/2022 16:18;dev_express;Basse;74540
+312;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;8.0;Highly Rural/ Rural;25/05/2022 08:12;dev_premium;Moyenne;59220
+313;M;Senior : 65 ans et plus;Un;VRAI;[40K - 60K[;Bachelors;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;04/05/2022 10:23;dev_integral;Moyenne;61100
+314;F;Adulte : 25-64 ans;Aucun;VRAI;>120K;Masters;Private;Pickup;Moyen;12.0;Highly Urban/ Urban;16/04/2022 07:28;dev_integral;Moyenne;94000
+315;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;17/02/2022 11:37;dev_integral;Moyenne;32600
+316;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;11.0;Highly Urban/ Urban;25/04/2022 08:56;dev_premium;Moyenne;38800
+317;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Panel Truck;Faible;7.0;Highly Urban/ Urban;24/03/2022 18:04;dev_integral;Basse;45200
+318;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;5.0;Highly Rural/ Rural;24/01/2022 04:40;dev_express;Basse;38360
+319;M;Senior : 65 ans et plus;Un;VRAI;Non connu;High School;Private;Pickup;Faible;9.0;Highly Rural/ Rural;03/03/2022 06:41;dev_integral;Moyenne;78700
+320;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Van;Faible;14.0;Highly Urban/ Urban;29/01/2022 15:32;dev_integral;Moyenne;39100
+321;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;SUV;Faible;4.0;Highly Rural/ Rural;29/04/2022 12:31;dev_integral;Moyenne;69004
+322;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Private;Sports Car;Faible;6.0;Highly Urban/ Urban;11/01/2022 18:54;dev_integral;Moyenne;47110
+323;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Rural/ Rural;11/05/2022 07:38;dev_express;Basse;34970
+324;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;07/05/2022 22:16;dev_express;Basse;8000
+325;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;08/02/2022 23:25;dev_express;Basse;76690
+326;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Moyen;19.0;Highly Urban/ Urban;01/02/2022 06:20;dev_integral;Moyenne;87000
+327;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;SUV;Moyen;12.0;Highly Urban/ Urban;10/03/2022 16:31;dev_integral;Moyenne;18000
+328;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;08/03/2022 15:24;dev_integral;Moyenne;12170
+329;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;9.0;Highly Rural/ Rural;27/05/2022 17:51;dev_premium;Moyenne;91230
+330;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Pickup;Moyen;9.0;Highly Urban/ Urban;07/01/2022 08:08;dev_vip;Elevée;93800
+331;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;14/02/2022 20:28;dev_express;Basse;78300
+332;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Sports Car;Faible;4.0;Highly Urban/ Urban;21/02/2022 01:00;dev_express;Basse;91100
+333;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;Van;Faible;7.0;Highly Rural/ Rural;09/04/2022 20:12;dev_integral;Basse;88550
+334;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Minivan;Moyen;9.0;Highly Urban/ Urban;25/03/2022 02:23;dev_integral;Moyenne;43200
+335;F;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;SUV;Faible;20.0;Highly Urban/ Urban;31/03/2022 08:06;dev_express;Basse;13790
+336;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Sports Car;Faible;15.0;Highly Urban/ Urban;02/02/2022 02:18;dev_integral;Basse;48100
+337;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Pickup;Faible;7.0;Highly Urban/ Urban;08/05/2022 12:04;dev_integral;Moyenne;20000
+338;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Masters;Commercial;SUV;Faible;9.0;Highly Urban/ Urban;04/04/2022 21:09;dev_integral;Basse;95000
+339;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;6.0;Highly Urban/ Urban;11/01/2022 12:37;dev_express;Basse;63250
+340;M;Adulte : 25-64 ans;Aucun;VRAI;>120K;Masters;Commercial;Panel Truck;Moyen;8.0;Highly Urban/ Urban;22/03/2022 14:39;dev_express;Basse;11260
+341;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;High School;Commercial;Sports Car;Faible;1.0;Highly Urban/ Urban;30/01/2022 05:24;dev_integral;Moyenne;32100
+342;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;09/05/2022 02:49;dev_integral;Moyenne;18190
+343;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Moyen;5.0;Highly Urban/ Urban;11/04/2022 20:56;dev_integral;Basse;16500
+344;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;Van;Faible;8.0;Highly Urban/ Urban;10/01/2022 18:15;dev_integral;Moyenne;13012
+345;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;SUV;Moyen;;Highly Urban/ Urban;26/03/2022 19:37;dev_premium;Moyenne;69460
+346;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Panel Truck;Elevé;14.0;Highly Urban/ Urban;24/02/2022 04:11;dev_express;Basse;93130
+347;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Panel Truck;Moyen;3.0;Highly Urban/ Urban;05/03/2022 20:32;dev_integral;Basse;46000
+348;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Faible;10.0;Highly Urban/ Urban;30/04/2022 22:26;dev_express;Basse;20290
+349;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Rural/ Rural;26/01/2022 05:23;dev_integral;Moyenne;39100
+350;F;Senior : 65 ans et plus;Un;VRAI;[80K - 120K[;Bachelors;Private;Minivan;Moyen;10.0;Highly Urban/ Urban;06/01/2022 03:41;dev_vip;Elevée;19270
+351;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;13.0;Highly Urban/ Urban;09/01/2022 12:44;dev_integral;Moyenne;38080
+352;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;13/01/2022 00:17;dev_integral;Moyenne;56400
+353;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Sports Car;Elevé;20.0;Highly Urban/ Urban;10/05/2022 08:42;dev_integral;Moyenne;81200
+354;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;1.0;Highly Rural/ Rural;02/03/2022 15:25;dev_integral;Moyenne;57230
+355;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Masters;Private;Minivan;Moyen;18.0;Highly Urban/ Urban;30/01/2022 12:21;dev_express;Basse;73300
+356;F;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Masters;Private;SUV;Faible;25.0;Highly Urban/ Urban;14/04/2022 07:57;dev_integral;Basse;40420
+357;M;Adulte : 25-64 ans;Aucun;VRAI;>120K;Masters;Commercial;Panel Truck;Faible;19.0;Highly Urban/ Urban;29/05/2022 01:33;dev_integral;Moyenne;90370
+358;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;Masters;Private;Pickup;Faible;17.0;Highly Urban/ Urban;24/05/2022 02:16;dev_express;Basse;66210
+359;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Commercial;Pickup;Moyen;11.0;Highly Rural/ Rural;27/01/2022 13:08;dev_integral;Moyenne;15210
+360;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Van;Moyen;13.0;Highly Urban/ Urban;07/05/2022 12:43;dev_express;Basse;37300
+361;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Faible;8.0;Highly Rural/ Rural;06/03/2022 05:37;dev_premium;Moyenne;42000
+362;M;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;Bachelors;Commercial;SUV;Faible;5.0;Highly Urban/ Urban;06/05/2022 19:28;dev_express;Basse;7430
+363;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;23/01/2022 05:32;dev_premium;Moyenne;45140
+364;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;21/01/2022 14:17;dev_integral;Basse;62800
+365;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;High School;Private;Minivan;Faible;;Highly Urban/ Urban;24/05/2022 23:51;dev_integral;Moyenne;24100
+366;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;8.0;Highly Rural/ Rural;23/04/2022 17:43;dev_integral;Basse;93290
+367;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;SUV;Faible;9.0;Highly Urban/ Urban;19/02/2022 18:27;dev_express;Basse;30140
+368;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;7.0;Highly Rural/ Rural;10/01/2022 09:54;dev_express;Basse;80570
+369;M;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;Bachelors;Private;Sports Car;Faible;13.0;Highly Urban/ Urban;26/02/2022 17:17;dev_premium;Moyenne;12140
+370;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;Bachelors;Private;SUV;Faible;10.0;Highly Urban/ Urban;03/01/2022 08:13;dev_express;Basse;64110
+371;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Masters;Private;Minivan;Faible;;Highly Urban/ Urban;27/01/2022 16:05;dev_integral;Moyenne;46500
+372;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;Panel Truck;Moyen;8.0;Highly Rural/ Rural;26/05/2022 01:19;dev_integral;Moyenne;94880
+373;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;07/03/2022 14:13;dev_integral;Moyenne;65140
+374;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;;Highly Urban/ Urban;16/04/2022 20:05;dev_express;Basse;64300
+375;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Urban/ Urban;23/05/2022 01:28;dev_express;Basse;11150
+376;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Masters;Private;SUV;Faible;11.0;Highly Urban/ Urban;08/01/2022 06:18;dev_premium;Moyenne;59700
+377;M;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;Masters;Private;Minivan;Faible;21.0;Highly Urban/ Urban;29/05/2022 04:55;dev_integral;Moyenne;46800
+378;M;Senior : 65 ans et plus;Un;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;8.0;Highly Urban/ Urban;10/01/2022 03:39;dev_integral;Moyenne;18100
+379;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;;Highly Urban/ Urban;18/04/2022 14:58;dev_integral;Moyenne;48000
+380;M;Jeune : moins de 25 ans;Aucun;VRAI;>120K;PhD;Private;Minivan;Faible;18.0;Highly Urban/ Urban;16/01/2022 03:51;dev_express;Basse;12000
+381;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;Van;Moyen;7.0;Highly Urban/ Urban;02/01/2022 13:57;dev_express;Basse;39260
+382;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Commercial;Van;Moyen;16.0;Highly Urban/ Urban;18/03/2022 04:49;dev_integral;Moyenne;85640
+383;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Private;Sports Car;Faible;14.0;Highly Urban/ Urban;19/01/2022 09:26;dev_premium;Moyenne;41100
+384;M;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;High School;Commercial;SUV;Faible;11.0;Highly Urban/ Urban;06/05/2022 19:13;dev_integral;Basse;3600
+385;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;4.0;Highly Urban/ Urban;27/04/2022 00:03;dev_express;Basse;35620
+386;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Moyen;19.0;Highly Urban/ Urban;16/02/2022 20:52;dev_express;Basse;8000
+387;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Private;Pickup;Faible;14.0;Highly Urban/ Urban;06/03/2022 03:04;dev_integral;Basse;71390
+388;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;5.0;Highly Rural/ Rural;07/01/2022 02:54;dev_express;Basse;15000
+389;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;23/02/2022 11:01;dev_express;Basse;80230
+390;F;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Masters;Private;SUV;Faible;12.0;Highly Urban/ Urban;11/04/2022 10:47;dev_integral;Basse;15160
+391;F;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Masters;Private;Sports Car;Faible;15.0;Highly Urban/ Urban;16/03/2022 21:12;dev_integral;Moyenne;53200
+392;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Moyen;11.0;Highly Urban/ Urban;13/05/2022 08:26;dev_express;Basse;72200
+393;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;7.0;Highly Urban/ Urban;08/01/2022 21:15;dev_express;Basse;25250
+394;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Private;Van;Faible;3.0;Highly Urban/ Urban;13/03/2022 10:59;dev_express;Basse;68200
+395;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;8.0;Highly Urban/ Urban;05/01/2022 22:40;dev_express;Basse;76100
+396;F;Adulte : 25-64 ans;Plusieurs;VRAI;[60K - 80K[;High School;Commercial;Pickup;Faible;8.0;Highly Urban/ Urban;17/02/2022 01:45;dev_premium;Moyenne;49360
+397;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;16.0;Highly Rural/ Rural;14/04/2022 05:13;dev_premium;Moyenne;44700
+398;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;SUV;Moyen;10.0;Highly Urban/ Urban;10/02/2022 01:05;dev_express;Basse;11100
+399;M;Senior : 65 ans et plus;Un;VRAI;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;9.0;Highly Rural/ Rural;17/04/2022 21:45;dev_integral;Basse;43110
+400;F;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;High School;Commercial;Sports Car;Moyen;1.0;Highly Urban/ Urban;15/02/2022 14:51;dev_integral;Moyenne;81290
+401;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Faible;5.0;Highly Urban/ Urban;07/04/2022 15:44;dev_integral;Moyenne;9100
+402;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Elevé;5.0;Highly Urban/ Urban;11/01/2022 21:36;dev_express;Basse;46130
+403;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Faible;16.0;Highly Urban/ Urban;29/01/2022 06:11;dev_express;Basse;54740
+404;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Moyen;19.0;Highly Urban/ Urban;27/01/2022 10:26;dev_express;Basse;14440
+405;F;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;7.0;Highly Urban/ Urban;09/04/2022 17:13;dev_integral;Basse;52400
+406;F;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;High School;Commercial;SUV;Faible;8.0;Highly Urban/ Urban;04/02/2022 22:31;dev_integral;Basse;32190
+407;M;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;High School;Private;Minivan;Moyen;9.0;Highly Urban/ Urban;13/04/2022 19:59;dev_premium;Moyenne;25800
+408;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;PhD;Commercial;Van;Faible;14.0;Highly Urban/ Urban;01/03/2022 04:29;dev_premium;Moyenne;29630
+409;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;13/02/2022 11:48;dev_premium;Moyenne;20000
+410;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Van;Moyen;1.0;Highly Urban/ Urban;27/03/2022 04:34;dev_integral;Moyenne;51400
+411;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Sports Car;Faible;14.0;Highly Urban/ Urban;26/03/2022 22:33;dev_express;Basse;83110
+412;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Pickup;Faible;;Highly Urban/ Urban;05/04/2022 17:32;dev_premium;Moyenne;74240
+413;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Moyen;16.0;Highly Rural/ Rural;23/01/2022 22:34;dev_premium;Moyenne;18240
+414;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Pickup;Faible;16.0;Highly Urban/ Urban;14/02/2022 23:26;dev_integral;Basse;88220
+415;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Pickup;Faible;;Highly Urban/ Urban;31/03/2022 03:07;dev_express;Basse;24000
+416;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;1.0;Highly Urban/ Urban;11/05/2022 06:47;dev_integral;Moyenne;17700
+417;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;24/03/2022 15:19;dev_integral;Moyenne;21120
+418;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;29/03/2022 12:51;dev_express;Basse;85770
+419;F;Adulte : 25-64 ans;Aucun;VRAI;Non connu;High School;Commercial;Panel Truck;Faible;1.0;Highly Urban/ Urban;02/01/2022 23:38;dev_integral;Moyenne;59240
+420;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;29/05/2022 03:14;dev_integral;Moyenne;16440
+421;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Van;Elevé;16.0;Highly Urban/ Urban;18/04/2022 23:11;dev_integral;Moyenne;23600
+422;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Rural/ Rural;17/04/2022 11:37;dev_integral;Moyenne;73200
+423;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Moyen;7.0;Highly Urban/ Urban;08/03/2022 08:49;dev_integral;Moyenne;81200
+424;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Sports Car;Faible;12.0;Highly Urban/ Urban;28/04/2022 19:59;dev_express;Basse;41600
+425;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;SUV;Faible;7.0;Highly Rural/ Rural;05/04/2022 14:33;dev_premium;Moyenne;19600
+426;M;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;High School;Commercial;Minivan;Faible;5.0;Highly Urban/ Urban;30/03/2022 17:39;dev_premium;Moyenne;66000
+427;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;09/04/2022 15:27;dev_integral;Moyenne;87000
+428;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Moyen;18.0;Highly Urban/ Urban;06/05/2022 19:05;dev_express;Basse;49000
+429;F;Senior : 65 ans et plus;Un;VRAI;[40K - 60K[;Bachelors;Private;SUV;Moyen;11.0;Highly Rural/ Rural;29/04/2022 01:23;dev_integral;Moyenne;33610
+430;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;03/01/2022 09:08;dev_express;Basse;18100
+431;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Faible;4.0;Highly Rural/ Rural;09/05/2022 02:38;dev_vip;Elevée;83210
+432;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Commercial;Pickup;Faible;17.0;Highly Urban/ Urban;22/01/2022 15:35;dev_integral;Basse;8700
+433;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;PhD;Private;Minivan;Faible;15.0;Highly Urban/ Urban;29/04/2022 09:35;dev_express;Basse;11400
+434;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;Panel Truck;Moyen;;Highly Urban/ Urban;24/02/2022 09:29;dev_integral;Moyenne;13104
+435;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;01/04/2022 04:04;dev_express;Basse;44390
+436;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Pickup;Moyen;13.0;Highly Urban/ Urban;12/02/2022 03:31;dev_express;Basse;55300
+437;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Van;Faible;12.0;Highly Urban/ Urban;19/04/2022 19:52;dev_integral;Moyenne;34290
+438;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;6.0;Highly Urban/ Urban;06/02/2022 22:10;dev_premium;Moyenne;63910
+439;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Faible;9.0;Highly Urban/ Urban;07/01/2022 04:46;dev_integral;Basse;85360
+440;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;19/03/2022 01:46;dev_premium;Moyenne;46400
+441;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;PhD;Private;Pickup;Faible;;Highly Urban/ Urban;10/03/2022 21:24;dev_integral;Moyenne;69190
+442;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Commercial;Pickup;Faible;19.0;Highly Urban/ Urban;08/05/2022 21:30;dev_integral;Moyenne;59440
+443;F;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Commercial;SUV;Faible;7.0;Highly Urban/ Urban;09/03/2022 21:30;dev_express;Basse;47320
+444;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;PhD;Private;SUV;Moyen;15.0;Highly Urban/ Urban;20/04/2022 18:29;dev_express;Basse;39120
+445;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;05/04/2022 00:30;dev_integral;Moyenne;33000
+446;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;SUV;Moyen;9.0;Highly Urban/ Urban;20/05/2022 14:23;dev_integral;Basse;93250
+447;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;6.0;Highly Urban/ Urban;03/03/2022 09:25;dev_integral;Basse;55310
+448;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;12/03/2022 08:44;dev_express;Basse;62700
+449;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Masters;Private;Sports Car;Faible;12.0;Highly Urban/ Urban;06/01/2022 12:56;dev_express;Basse;44160
+450;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;High School;Commercial;Pickup;Moyen;4.0;Highly Urban/ Urban;17/01/2022 08:56;dev_express;Basse;82130
+451;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;8.0;Highly Urban/ Urban;04/03/2022 00:51;dev_integral;Moyenne;92220
+452;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;SUV;Faible;20.0;Highly Urban/ Urban;28/02/2022 08:01;dev_premium;Moyenne;46100
+453;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Van;Faible;4.0;Highly Urban/ Urban;22/03/2022 17:53;dev_express;Basse;17220
+454;F;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;Minivan;Faible;10.0;Highly Urban/ Urban;09/05/2022 14:13;dev_express;Basse;94240
+455;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Commercial;Pickup;Faible;;Highly Urban/ Urban;11/03/2022 14:38;dev_integral;Basse;41500
+456;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Commercial;Van;Moyen;1.0;Highly Urban/ Urban;19/02/2022 23:44;dev_integral;Moyenne;56600
+457;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Moyen;8.0;Highly Urban/ Urban;28/04/2022 20:05;dev_premium;Moyenne;71000
+458;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Pickup;Faible;1.0;Highly Urban/ Urban;01/03/2022 15:58;dev_integral;Basse;39300
+459;M;Adulte : 25-64 ans;Plusieurs;VRAI;[80K - 120K[;Bachelors;Private;Minivan;Faible;1.0;Highly Urban/ Urban;17/01/2022 02:58;dev_integral;Basse;5000
+460;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;9.0;Highly Rural/ Rural;12/03/2022 07:57;dev_premium;Moyenne;20290
+461;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Sports Car;Faible;5.0;Highly Urban/ Urban;14/04/2022 03:21;dev_express;Basse;3460
+462;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;17/02/2022 11:06;dev_express;Basse;82000
+463;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;19/04/2022 19:04;dev_integral;Basse;6530
+464;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;5.0;Highly Rural/ Rural;18/05/2022 10:53;dev_integral;Basse;91540
+465;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Pickup;Faible;12.0;Highly Rural/ Rural;13/03/2022 05:28;dev_express;Basse;89100
+466;F;Jeune : moins de 25 ans;Un;VRAI;>120K;Masters;Commercial;Van;Faible;;Highly Urban/ Urban;11/05/2022 14:01;dev_express;Basse;95000
+467;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;;Highly Urban/ Urban;11/01/2022 02:15;dev_premium;Moyenne;89320
+468;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Urban/ Urban;09/05/2022 11:12;dev_integral;Moyenne;31220
+469;F;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;High School;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;04/01/2022 12:36;dev_integral;Moyenne;19100
+470;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Urban/ Urban;30/05/2022 20:12;dev_express;Basse;13003
+471;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;Minivan;Faible;9.0;Highly Urban/ Urban;06/03/2022 00:29;dev_express;Basse;75019
+472;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;4.0;Highly Urban/ Urban;19/01/2022 12:12;dev_premium;Moyenne;60160
+473;F;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;Masters;Private;Pickup;Moyen;9.0;Highly Urban/ Urban;20/04/2022 02:39;dev_integral;Moyenne;84200
+474;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;24/05/2022 17:45;dev_express;Basse;95140
+475;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Elevé;1.0;Highly Urban/ Urban;26/03/2022 13:13;dev_express;Basse;50690
+476;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;8.0;Highly Urban/ Urban;23/03/2022 14:10;dev_integral;Moyenne;53240
+477;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;18.0;Highly Urban/ Urban;12/04/2022 00:22;dev_integral;Basse;8170
+478;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;11.0;Highly Urban/ Urban;15/04/2022 13:43;dev_integral;Moyenne;47210
+479;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Faible;6.0;Highly Urban/ Urban;20/04/2022 01:02;dev_express;Basse;77440
+480;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;02/05/2022 23:12;dev_integral;Moyenne;26300
+481;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Van;Moyen;1.0;Highly Urban/ Urban;21/05/2022 08:38;dev_express;Basse;4000
+482;F;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;SUV;Faible;;Highly Urban/ Urban;01/03/2022 18:29;dev_express;Basse;12120
+483;F;Adulte : 25-64 ans;Plusieurs;VRAI;[60K - 80K[;Masters;Private;Minivan;Moyen;7.0;Highly Urban/ Urban;10/05/2022 11:14;dev_premium;Moyenne;61100
+484;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Sports Car;Faible;10.0;Highly Urban/ Urban;06/03/2022 05:10;dev_integral;Moyenne;75016
+485;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;26/05/2022 01:21;dev_integral;Basse;88220
+486;F;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;25/04/2022 09:36;dev_integral;Basse;31000
+487;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Faible;1.0;Highly Rural/ Rural;29/05/2022 19:59;dev_premium;Moyenne;8200
+488;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;10.0;Highly Urban/ Urban;03/02/2022 15:04;dev_express;Basse;82100
+489;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Minivan;Faible;8.0;Highly Urban/ Urban;16/05/2022 00:02;dev_express;Basse;11000
+490;F;Adulte : 25-64 ans;Un;VRAI;[60K - 80K[;Bachelors;Private;SUV;Faible;10.0;Highly Urban/ Urban;15/05/2022 09:25;dev_express;Basse;54620
+491;M;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Bachelors;Private;SUV;Moyen;6.0;Highly Urban/ Urban;28/05/2022 03:24;dev_express;Basse;86000
+492;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;11.0;Highly Rural/ Rural;27/03/2022 17:26;dev_integral;Basse;19100
+493;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;03/02/2022 09:48;dev_integral;Moyenne;2100
+494;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Moyen;8.0;Highly Urban/ Urban;06/05/2022 15:53;dev_premium;Moyenne;18190
+495;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;;Highly Rural/ Rural;12/05/2022 06:56;dev_premium;Moyenne;52100
+496;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Faible;13.0;Highly Urban/ Urban;15/01/2022 18:39;dev_integral;Basse;58000
+497;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;24/01/2022 13:18;dev_integral;Moyenne;73100
+498;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Pickup;Faible;19.0;Highly Urban/ Urban;17/03/2022 06:56;dev_integral;Moyenne;54190
+499;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;PhD;Private;SUV;Faible;9.0;Highly Rural/ Rural;29/03/2022 02:50;dev_integral;Moyenne;78570
+500;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Pickup;Faible;;Highly Urban/ Urban;10/05/2022 07:12;dev_express;Basse;13013
+501;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Minivan;Faible;15.0;Highly Urban/ Urban;14/03/2022 05:41;dev_express;Basse;24100
+502;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;10.0;Highly Rural/ Rural;31/05/2022 13:57;dev_premium;Moyenne;16200
+503;F;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Bachelors;Private;SUV;Faible;7.0;Highly Urban/ Urban;10/05/2022 23:39;dev_integral;Moyenne;54300
+504;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;14/05/2022 00:58;dev_express;Basse;27300
+505;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Moyen;12.0;Highly Urban/ Urban;07/05/2022 14:05;dev_express;Basse;82170
+506;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Pickup;Faible;1.0;Highly Rural/ Rural;17/05/2022 22:41;dev_integral;Moyenne;57950
+507;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Faible;8.0;Highly Urban/ Urban;17/03/2022 06:05;dev_integral;Basse;44190
+508;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Van;Moyen;10.0;Highly Urban/ Urban;15/03/2022 03:25;dev_premium;Moyenne;49000
+509;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;13.0;Highly Urban/ Urban;30/03/2022 17:24;dev_express;Basse;28310
+510;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;21/01/2022 20:42;dev_express;Basse;43100
+511;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;18/01/2022 19:29;dev_express;Basse;4100
+512;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Minivan;Faible;17.0;Highly Urban/ Urban;19/04/2022 21:43;dev_integral;Basse;58260
+513;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;7.0;Highly Rural/ Rural;18/05/2022 13:33;dev_premium;Moyenne;24340
+514;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;21.0;Highly Urban/ Urban;04/04/2022 15:50;dev_express;Basse;83120
+515;M;Adulte : 25-64 ans;Aucun;VRAI;>120K;Bachelors;Private;Minivan;Faible;8.0;Highly Urban/ Urban;25/03/2022 07:11;dev_integral;Moyenne;62144
+516;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;23/03/2022 12:28;dev_integral;Basse;47300
+517;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;11.0;Highly Urban/ Urban;25/03/2022 13:33;dev_express;Basse;70310
+518;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;PhD;Private;Minivan;Faible;22.0;Highly Urban/ Urban;23/02/2022 20:23;dev_integral;Moyenne;60170
+519;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Bachelors;Commercial;SUV;Moyen;10.0;Highly Urban/ Urban;08/04/2022 12:44;dev_premium;Moyenne;29810
+520;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;;Highly Urban/ Urban;25/02/2022 05:54;dev_integral;Moyenne;43700
+521;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;8.0;Highly Urban/ Urban;07/02/2022 00:44;dev_integral;Basse;36290
+522;M;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Minivan;Faible;4.0;Highly Rural/ Rural;01/04/2022 01:13;dev_integral;Moyenne;38350
+523;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Minivan;Moyen;;Highly Urban/ Urban;25/05/2022 18:59;dev_express;Basse;45200
+524;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;7.0;Highly Urban/ Urban;21/04/2022 16:29;dev_express;Basse;11000
+525;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;31/05/2022 05:19;dev_premium;Moyenne;82600
+526;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;19/02/2022 08:11;dev_express;Basse;65000
+527;F;Adulte : 25-64 ans;Plusieurs;VRAI;[40K - 60K[;Bachelors;Private;SUV;Elevé;6.0;Highly Urban/ Urban;23/05/2022 14:29;dev_integral;Moyenne;29860
+528;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Pickup;Faible;4.0;Highly Rural/ Rural;24/02/2022 11:57;dev_integral;Moyenne;7330
+529;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Private;Sports Car;Faible;;Highly Urban/ Urban;28/05/2022 16:47;dev_express;Basse;7400
+530;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Faible;9.0;Highly Urban/ Urban;18/05/2022 20:48;dev_express;Basse;8000
+531;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Panel Truck;Moyen;1.0;Highly Urban/ Urban;12/03/2022 12:59;dev_express;Basse;1630
+532;M;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Commercial;Pickup;Moyen;8.0;Highly Rural/ Rural;06/03/2022 13:23;dev_express;Basse;9700
+533;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;04/03/2022 01:37;dev_express;Basse;47410
+534;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Commercial;Pickup;Moyen;13.0;Highly Rural/ Rural;10/05/2022 23:21;dev_premium;Moyenne;34000
+535;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;Bachelors;Private;Pickup;Moyen;9.0;Highly Urban/ Urban;08/04/2022 22:16;dev_express;Basse;70210
+536;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;20/01/2022 06:01;dev_express;Basse;67670
+537;F;Senior : 65 ans et plus;Aucun;VRAI;Non connu;Bachelors;Private;Minivan;Moyen;;Highly Rural/ Rural;06/01/2022 05:05;dev_express;Basse;15600
+538;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;8.0;Highly Rural/ Rural;07/01/2022 02:17;dev_integral;Basse;62200
+539;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;1.0;Highly Urban/ Urban;04/05/2022 21:01;dev_express;Basse;41400
+540;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Private;Pickup;Moyen;15.0;Highly Urban/ Urban;05/05/2022 07:55;dev_integral;Moyenne;38490
+541;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[80K - 120K[;Masters;Private;Sports Car;Moyen;18.0;Highly Urban/ Urban;14/03/2022 00:41;dev_express;Basse;24000
+542;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Moyen;12.0;Highly Urban/ Urban;13/02/2022 12:27;dev_express;Basse;18570
+543;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Faible;17.0;Highly Rural/ Rural;27/03/2022 16:30;dev_integral;Moyenne;19100
+544;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;02/02/2022 14:25;dev_integral;Moyenne;59620
+545;F;Senior : 65 ans et plus;Un;VRAI;[60K - 80K[;Masters;Commercial;Panel Truck;Faible;14.0;Highly Rural/ Rural;22/05/2022 06:17;dev_integral;Moyenne;39000
+546;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Sports Car;Moyen;9.0;Highly Urban/ Urban;03/02/2022 18:51;dev_integral;Basse;95490
+547;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Moyen;7.0;Highly Urban/ Urban;17/04/2022 11:05;dev_express;Basse;20000
+548;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;PhD;Private;Sports Car;Faible;9.0;Highly Urban/ Urban;30/01/2022 11:38;dev_integral;Basse;78700
+549;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;SUV;Moyen;12.0;Highly Urban/ Urban;04/01/2022 23:37;dev_integral;Basse;57230
+550;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Pickup;Moyen;11.0;Highly Rural/ Rural;20/02/2022 01:38;dev_premium;Moyenne;73190
+551;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Faible;18.0;Highly Urban/ Urban;22/03/2022 18:25;dev_integral;Moyenne;30300
+552;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;PhD;Private;Sports Car;Faible;20.0;Highly Urban/ Urban;14/04/2022 03:08;dev_integral;Moyenne;48100
+553;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Moyen;9.0;Highly Urban/ Urban;28/03/2022 18:19;dev_integral;Moyenne;81120
+554;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;SUV;Faible;5.0;Highly Urban/ Urban;15/01/2022 01:30;dev_integral;Moyenne;32220
+555;M;Senior : 65 ans et plus;Un;VRAI;[40K - 60K[;Bachelors;Commercial;Pickup;Faible;7.0;Highly Urban/ Urban;30/03/2022 17:09;dev_express;Basse;10100
+556;M;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;03/04/2022 06:29;dev_express;Basse;1500
+557;M;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Faible;;Highly Urban/ Urban;11/04/2022 23:33;dev_integral;Moyenne;35370
+558;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Commercial;Panel Truck;Faible;;Highly Urban/ Urban;18/05/2022 18:08;dev_integral;Moyenne;50350
+559;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;02/04/2022 09:07;dev_integral;Moyenne;44000
+560;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;19.0;Highly Urban/ Urban;09/03/2022 14:39;dev_express;Basse;15170
+561;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;10.0;Highly Urban/ Urban;13/04/2022 11:26;dev_integral;Moyenne;59180
+562;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Van;Moyen;18.0;Highly Urban/ Urban;14/03/2022 13:17;dev_integral;Moyenne;89120
+563;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Minivan;Faible;10.0;Highly Urban/ Urban;12/05/2022 14:47;dev_express;Basse;58000
+564;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Van;Faible;1.0;Highly Urban/ Urban;01/01/2022 20:24;dev_integral;Basse;36190
+565;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[80K - 120K[;PhD;Private;SUV;Moyen;16.0;Highly Urban/ Urban;25/05/2022 20:36;dev_express;Basse;56100
+566;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;9.0;Highly Urban/ Urban;16/05/2022 05:07;dev_express;Basse;50660
+567;M;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;7.0;Highly Urban/ Urban;27/02/2022 02:15;dev_integral;Moyenne;62360
+568;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Pickup;Faible;15.0;Highly Urban/ Urban;09/03/2022 09:41;dev_integral;Basse;53250
+569;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;13.0;Highly Urban/ Urban;31/05/2022 15:49;dev_express;Basse;83230
+570;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;14.0;Highly Urban/ Urban;02/03/2022 14:10;dev_premium;Moyenne;20220
+571;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;24.0;Highly Urban/ Urban;24/04/2022 21:41;dev_premium;Moyenne;61100
+572;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Pickup;Moyen;10.0;Highly Urban/ Urban;21/01/2022 07:59;dev_express;Basse;79100
+573;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Moyen;13.0;Highly Urban/ Urban;07/03/2022 19:35;dev_express;Basse;86100
+574;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Pickup;Faible;17.0;Highly Rural/ Rural;31/05/2022 11:14;dev_express;Basse;74320
+575;M;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Van;Moyen;8.0;Highly Urban/ Urban;13/05/2022 02:36;dev_integral;Basse;75015
+576;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Pickup;Faible;15.0;Highly Urban/ Urban;23/05/2022 03:01;dev_integral;Basse;55100
+577;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Minivan;Faible;10.0;Highly Urban/ Urban;11/05/2022 03:02;dev_express;Basse;35510
+578;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;05/04/2022 00:02;dev_integral;Moyenne;46500
+579;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;SUV;Elevé;1.0;Highly Urban/ Urban;27/05/2022 18:51;dev_integral;Moyenne;25490
+580;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;20/04/2022 23:17;dev_premium;Moyenne;4220
+581;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;Panel Truck;Faible;10.0;Highly Urban/ Urban;25/01/2022 19:36;dev_express;Basse;20000
+582;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Faible;13.0;Highly Urban/ Urban;08/04/2022 01:19;dev_express;Basse;55000
+583;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;7.0;Highly Rural/ Rural;18/02/2022 12:19;dev_integral;Moyenne;91420
+584;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;;Highly Urban/ Urban;12/01/2022 18:29;dev_integral;Moyenne;27370
+585;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;10/01/2022 15:03;dev_integral;Moyenne;64250
+586;M;Senior : 65 ans et plus;Plusieurs;VRAI;[60K - 80K[;Bachelors;Private;SUV;Faible;5.0;Highly Urban/ Urban;10/05/2022 11:42;dev_premium;Moyenne;1230
+587;M;Senior : 65 ans et plus;Aucun;VRAI;Non connu;High School;Private;SUV;Faible;10.0;Highly Rural/ Rural;23/03/2022 10:29;dev_premium;Moyenne;61160
+588;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;3.0;Highly Urban/ Urban;19/02/2022 03:28;dev_integral;Basse;64990
+589;M;Adulte : 25-64 ans;Plusieurs;VRAI;Non connu;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;27/04/2022 20:44;dev_express;Basse;2250
+590;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;1.0;Highly Urban/ Urban;23/04/2022 04:43;dev_express;Basse;95380
+591;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Bachelors;Commercial;Panel Truck;Moyen;10.0;Highly Urban/ Urban;21/05/2022 08:25;dev_integral;Moyenne;94200
+592;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Van;Moyen;;Highly Urban/ Urban;06/01/2022 08:39;dev_express;Basse;93220
+593;M;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;SUV;Faible;14.0;Highly Urban/ Urban;08/04/2022 00:39;dev_integral;Moyenne;75015
+594;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;SUV;Faible;6.0;Highly Urban/ Urban;25/04/2022 11:54;dev_integral;Moyenne;95410
+595;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Masters;Private;Sports Car;Faible;19.0;Highly Urban/ Urban;09/01/2022 11:28;dev_express;Basse;93120
+596;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;6.0;Highly Rural/ Rural;05/02/2022 05:34;dev_integral;Moyenne;94800
+597;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Minivan;Moyen;14.0;Highly Urban/ Urban;01/03/2022 11:59;dev_integral;Basse;18130
+598;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Sports Car;Moyen;20.0;Highly Rural/ Rural;14/02/2022 22:46;dev_premium;Moyenne;53950
+599;F;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Pickup;Moyen;7.0;Highly Urban/ Urban;13/02/2022 06:18;dev_integral;Basse;90100
+600;M;Adulte : 25-64 ans;Un;VRAI;Non connu;High School;Commercial;Pickup;Moyen;1.0;Highly Rural/ Rural;11/03/2022 21:23;dev_premium;Moyenne;89500
+601;M;Adulte : 25-64 ans;Un;VRAI;[60K - 80K[;Bachelors;Commercial;SUV;Faible;13.0;Highly Urban/ Urban;12/01/2022 21:51;dev_express;Basse;80210
+602;F;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;Bachelors;Private;Minivan;Faible;13.0;Highly Urban/ Urban;10/03/2022 05:03;dev_integral;Moyenne;14680
+603;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Faible;6.0;Highly Urban/ Urban;10/05/2022 21:14;dev_express;Basse;20600
+604;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;11/01/2022 06:26;dev_premium;Moyenne;48500
+605;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Bachelors;Private;Sports Car;Faible;7.0;Highly Rural/ Rural;05/05/2022 14:13;dev_premium;Moyenne;64600
+606;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;21/02/2022 10:07;dev_integral;Moyenne;12740
+607;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Van;Faible;13.0;Highly Urban/ Urban;07/04/2022 18:39;dev_premium;Moyenne;3100
+608;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Commercial;Minivan;Moyen;7.0;Highly Urban/ Urban;07/02/2022 05:05;dev_integral;Basse;64440
+609;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Faible;7.0;Highly Rural/ Rural;28/05/2022 05:50;dev_express;Basse;46110
+610;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Minivan;Faible;7.0;Highly Urban/ Urban;03/03/2022 11:24;dev_integral;Moyenne;61250
+611;M;Jeune : moins de 25 ans;Aucun;VRAI;>120K;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;07/02/2022 03:36;dev_integral;Moyenne;8000
+612;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;SUV;Faible;15.0;Highly Rural/ Rural;07/01/2022 05:37;dev_premium;Moyenne;51000
+613;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Faible;7.0;Highly Urban/ Urban;26/02/2022 03:44;dev_premium;Moyenne;89000
+614;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Private;Van;Faible;18.0;Highly Urban/ Urban;07/04/2022 19:50;dev_integral;Moyenne;93400
+615;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Private;Sports Car;Moyen;21.0;Highly Urban/ Urban;22/03/2022 11:12;dev_express;Basse;39300
+616;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;13.0;Highly Rural/ Rural;12/01/2022 10:58;dev_integral;Moyenne;40360
+617;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;Masters;Private;Sports Car;Faible;11.0;Highly Urban/ Urban;10/03/2022 08:37;dev_integral;Moyenne;9400
+618;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Sports Car;Moyen;;Highly Urban/ Urban;11/02/2022 07:56;dev_integral;Basse;66740
+619;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;Minivan;Moyen;;Highly Rural/ Rural;17/04/2022 04:32;dev_express;Basse;32330
+620;M;Senior : 65 ans et plus;Aucun;VRAI;Non connu;Bachelors;Private;Minivan;Moyen;5.0;Highly Urban/ Urban;20/05/2022 14:45;dev_integral;Moyenne;47310
+621;F;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Faible;17.0;Highly Rural/ Rural;08/01/2022 16:09;dev_express;Basse;3200
+622;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Sports Car;Moyen;14.0;Highly Urban/ Urban;14/03/2022 14:20;dev_express;Basse;3000
+623;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Pickup;Faible;10.0;Highly Urban/ Urban;23/05/2022 23:35;dev_integral;Basse;22700
+624;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Sports Car;Faible;11.0;Highly Urban/ Urban;09/04/2022 21:55;dev_integral;Moyenne;91190
+625;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Van;Faible;18.0;Highly Urban/ Urban;28/04/2022 17:36;dev_integral;Moyenne;61000
+626;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Rural/ Rural;17/02/2022 09:12;dev_premium;Moyenne;45520
+627;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;16/04/2022 00:49;dev_express;Basse;73100
+628;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;13.0;Highly Urban/ Urban;14/04/2022 05:42;dev_express;Basse;70210
+629;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;9.0;Highly Urban/ Urban;26/04/2022 08:50;dev_premium;Moyenne;64200
+630;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;24/04/2022 02:36;dev_integral;Basse;11360
+631;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Pickup;Faible;8.0;Highly Urban/ Urban;03/03/2022 12:44;dev_integral;Moyenne;43700
+632;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;18/03/2022 03:03;dev_integral;Moyenne;61300
+633;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Sports Car;Moyen;8.0;Highly Urban/ Urban;28/04/2022 02:43;dev_integral;Basse;74540
+634;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Van;Faible;7.0;Highly Urban/ Urban;22/03/2022 08:53;dev_express;Basse;10120
+635;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[60K - 80K[;Masters;Commercial;Pickup;Moyen;10.0;Highly Urban/ Urban;08/02/2022 19:17;dev_integral;Moyenne;26000
+636;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;;Highly Rural/ Rural;08/02/2022 07:38;dev_integral;Moyenne;27220
+637;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;07/02/2022 21:25;dev_integral;Basse;81000
+638;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;22/03/2022 09:48;dev_express;Basse;50000
+639;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;13/04/2022 20:56;dev_premium;Moyenne;80570
+640;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;16/02/2022 18:11;dev_premium;Moyenne;29200
+641;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;7.0;Highly Urban/ Urban;01/03/2022 17:16;dev_integral;Moyenne;36300
+642;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;17/01/2022 23:45;dev_integral;Basse;81290
+643;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;7.0;Highly Rural/ Rural;21/05/2022 16:11;dev_integral;Moyenne;71100
+644;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Moyen;17.0;Highly Urban/ Urban;17/04/2022 06:36;dev_premium;Moyenne;60250
+645;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Faible;1.0;Highly Urban/ Urban;13/02/2022 20:08;dev_integral;Moyenne;5000
+646;M;Senior : 65 ans et plus;Aucun;VRAI;>120K;PhD;Private;Minivan;Faible;25.0;Highly Urban/ Urban;08/03/2022 23:49;dev_express;Basse;87200
+647;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;9.0;Highly Rural/ Rural;01/05/2022 01:21;dev_integral;Moyenne;37170
+648;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Commercial;Pickup;Faible;16.0;Highly Urban/ Urban;10/02/2022 01:30;dev_integral;Moyenne;23000
+649;F;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;PhD;Private;Sports Car;Faible;;Highly Urban/ Urban;17/03/2022 21:10;dev_integral;Moyenne;37000
+650;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Faible;8.0;Highly Rural/ Rural;10/02/2022 16:25;dev_premium;Moyenne;52100
+651;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;16/01/2022 23:49;dev_integral;Moyenne;65330
+652;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;High School;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;05/01/2022 00:48;dev_integral;Basse;90110
+653;F;Adulte : 25-64 ans;Un;VRAI;>120K;Masters;Commercial;Panel Truck;Faible;18.0;Highly Urban/ Urban;11/01/2022 17:35;dev_vip;Elevée;23300
+654;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;11/03/2022 05:31;dev_integral;Moyenne;77600
+655;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;1.0;Highly Rural/ Rural;10/01/2022 23:47;dev_integral;Moyenne;19000
+656;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Van;Faible;1.0;Highly Urban/ Urban;15/05/2022 02:01;dev_integral;Basse;27200
+657;F;Senior : 65 ans et plus;Un;VRAI;Non connu;High School;Private;SUV;Moyen;6.0;Highly Rural/ Rural;03/01/2022 03:03;dev_integral;Moyenne;55110
+658;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;11.0;Highly Urban/ Urban;22/01/2022 15:37;dev_integral;Moyenne;21170
+659;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;4.0;Highly Urban/ Urban;03/04/2022 02:13;dev_premium;Moyenne;35400
+660;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Pickup;Moyen;14.0;Highly Rural/ Rural;15/03/2022 03:15;dev_integral;Moyenne;18110
+661;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;Van;Moyen;22.0;Highly Rural/ Rural;11/05/2022 04:46;dev_vip;Elevée;88260
+662;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Moyen;16.0;Highly Urban/ Urban;20/02/2022 07:23;dev_premium;Moyenne;45000
+663;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;6.0;Highly Urban/ Urban;07/03/2022 13:13;dev_integral;Moyenne;53410
+664;M;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Masters;Commercial;Pickup;Moyen;18.0;Highly Urban/ Urban;11/04/2022 09:32;dev_integral;Moyenne;36000
+665;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;21/01/2022 11:49;dev_premium;Moyenne;72130
+666;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Faible;12.0;Highly Urban/ Urban;22/03/2022 17:47;dev_integral;Moyenne;38600
+667;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Minivan;Moyen;13.0;Highly Urban/ Urban;11/04/2022 05:16;dev_integral;Moyenne;24290
+668;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;17/01/2022 13:39;dev_integral;Moyenne;82400
+669;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[80K - 120K[;Masters;Private;SUV;Moyen;15.0;Highly Urban/ Urban;08/04/2022 10:46;dev_integral;Moyenne;72230
+670;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;8.0;Highly Rural/ Rural;10/05/2022 07:15;dev_express;Basse;20290
+671;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;23/02/2022 18:30;dev_integral;Basse;72540
+672;M;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;High School;Private;Pickup;Faible;1.0;Highly Rural/ Rural;02/04/2022 18:10;dev_express;Basse;94500
+673;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Faible;6.0;Highly Urban/ Urban;15/02/2022 10:36;dev_integral;Basse;69650
+674;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Faible;1.0;Highly Rural/ Rural;08/01/2022 08:43;dev_express;Basse;18120
+675;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Masters;Commercial;Pickup;Moyen;16.0;Highly Urban/ Urban;24/03/2022 03:47;dev_integral;Moyenne;42000
+676;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;SUV;Moyen;11.0;Highly Urban/ Urban;24/05/2022 19:47;dev_integral;Basse;84160
+677;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Moyen;15.0;Highly Urban/ Urban;17/01/2022 11:38;dev_integral;Basse;18330
+678;M;Senior : 65 ans et plus;Plusieurs;VRAI;[60K - 80K[;High School;Commercial;SUV;Moyen;1.0;Highly Urban/ Urban;17/03/2022 13:43;dev_integral;Basse;51100
+679;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;18/03/2022 08:18;dev_integral;Moyenne;32600
+680;F;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Van;Faible;5.0;Highly Urban/ Urban;05/01/2022 16:14;dev_express;Basse;40100
+681;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Bachelors;Commercial;Van;Faible;5.0;Highly Urban/ Urban;13/05/2022 22:19;dev_premium;Moyenne;43000
+682;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;8.0;Highly Rural/ Rural;14/01/2022 17:48;dev_express;Basse;40090
+683;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;16/01/2022 03:47;dev_premium;Moyenne;72500
+684;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Faible;6.0;Highly Urban/ Urban;13/04/2022 12:18;dev_integral;Moyenne;92000
+685;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;11.0;Highly Urban/ Urban;09/03/2022 00:05;dev_express;Basse;5000
+686;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;1.0;Highly Urban/ Urban;15/03/2022 22:50;dev_express;Basse;61430
+687;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Moyen;8.0;Highly Rural/ Rural;07/02/2022 07:14;dev_integral;Moyenne;18000
+688;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Minivan;Faible;3.0;Highly Urban/ Urban;08/03/2022 11:24;dev_express;Basse;78114
+689;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;Pickup;Faible;5.0;Highly Urban/ Urban;07/01/2022 08:04;dev_premium;Moyenne;48000
+690;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;PhD;Private;Minivan;Faible;15.0;Highly Urban/ Urban;13/04/2022 05:45;dev_premium;Moyenne;39130
+691;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Faible;20.0;Highly Urban/ Urban;30/05/2022 04:03;dev_integral;Moyenne;34230
+692;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Pickup;Moyen;8.0;Highly Urban/ Urban;10/03/2022 05:51;dev_premium;Moyenne;82300
+693;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;8.0;Highly Urban/ Urban;02/05/2022 04:51;dev_express;Basse;49400
+694;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;04/05/2022 19:49;dev_express;Basse;12160
+695;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Moyen;12.0;Highly Urban/ Urban;17/05/2022 09:44;dev_express;Basse;47420
+696;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Minivan;Faible;11.0;Highly Urban/ Urban;25/04/2022 12:32;dev_express;Basse;23000
+697;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;10.0;Highly Rural/ Rural;11/05/2022 08:01;dev_express;Basse;79270
+698;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;Bachelors;Private;SUV;Faible;12.0;Highly Urban/ Urban;05/02/2022 16:47;dev_integral;Basse;26600
+699;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Rural/ Rural;03/03/2022 08:35;dev_express;Basse;82170
+700;M;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;High School;Private;SUV;Faible;5.0;Highly Rural/ Rural;18/05/2022 20:23;dev_integral;Moyenne;63000
+701;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Minivan;Faible;9.0;Highly Rural/ Rural;25/02/2022 18:38;dev_integral;Moyenne;95270
+702;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Panel Truck;Moyen;5.0;Highly Urban/ Urban;18/01/2022 19:21;dev_vip;Elevée;82000
+703;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;7.0;Highly Urban/ Urban;08/05/2022 19:44;dev_premium;Moyenne;87000
+704;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;SUV;Faible;5.0;Highly Urban/ Urban;19/02/2022 06:28;dev_express;Basse;77400
+705;F;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;Bachelors;Commercial;Pickup;Moyen;3.0;Highly Urban/ Urban;10/01/2022 07:16;dev_express;Basse;55170
+706;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Minivan;Faible;1.0;Highly Rural/ Rural;30/03/2022 01:16;dev_express;Basse;89140
+707;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[60K - 80K[;Masters;Private;Van;Faible;;Highly Urban/ Urban;07/05/2022 20:16;dev_express;Basse;95370
+708;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;20/05/2022 20:22;dev_express;Basse;2190
+709;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Van;Moyen;21.0;Highly Urban/ Urban;07/05/2022 13:12;dev_integral;Moyenne;21200
+710;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;04/04/2022 10:38;dev_premium;Moyenne;35630
+711;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Sports Car;Faible;10.0;Highly Urban/ Urban;04/03/2022 16:27;dev_express;Basse;57100
+712;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Commercial;Panel Truck;Faible;;Highly Urban/ Urban;11/02/2022 02:39;dev_integral;Basse;17120
+713;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Commercial;SUV;Faible;7.0;Highly Urban/ Urban;31/03/2022 21:08;dev_premium;Moyenne;55100
+714;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Private;Van;Faible;1.0;Highly Urban/ Urban;26/01/2022 05:48;dev_express;Basse;75008
+715;M;Senior : 65 ans et plus;Plusieurs;VRAI;Non connu;Bachelors;Commercial;Sports Car;Moyen;1.0;Highly Urban/ Urban;13/02/2022 02:19;dev_integral;Moyenne;64000
+716;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Pickup;Faible;17.0;Highly Urban/ Urban;15/01/2022 14:58;dev_premium;Moyenne;84000
+717;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Faible;9.0;Highly Urban/ Urban;23/02/2022 06:59;dev_integral;Moyenne;86330
+718;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;SUV;Faible;15.0;Highly Urban/ Urban;21/03/2022 16:57;dev_integral;Moyenne;70000
+719;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Sports Car;Faible;11.0;Highly Urban/ Urban;29/04/2022 21:33;dev_integral;Basse;90300
+720;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;SUV;Faible;9.0;Highly Rural/ Rural;07/03/2022 01:05;dev_express;Basse;62200
+721;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;5.0;Highly Urban/ Urban;29/05/2022 02:01;dev_express;Basse;61110
+722;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;10/03/2022 20:21;dev_express;Basse;85120
+723;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;08/02/2022 03:10;dev_express;Basse;60400
+724;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Van;Elevé;11.0;Highly Urban/ Urban;11/04/2022 13:50;dev_integral;Moyenne;18200
+725;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Private;Van;Faible;9.0;Highly Urban/ Urban;26/05/2022 21:07;dev_integral;Basse;5100
+726;M;Jeune : moins de 25 ans;Un;VRAI;[60K - 80K[;High School;Commercial;SUV;Moyen;6.0;Highly Urban/ Urban;18/04/2022 15:10;dev_express;Basse;92340
+727;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Pickup;Faible;17.0;Highly Urban/ Urban;19/02/2022 13:54;dev_express;Basse;55000
+728;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Sports Car;Moyen;9.0;Highly Urban/ Urban;12/04/2022 01:15;dev_integral;Moyenne;21220
+729;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;3.0;Highly Rural/ Rural;17/04/2022 18:55;dev_integral;Moyenne;51100
+730;M;Senior : 65 ans et plus;Aucun;VRAI;Non connu;High School;Private;Minivan;Moyen;7.0;Highly Urban/ Urban;23/03/2022 15:44;dev_integral;Moyenne;50480
+731;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;14.0;Highly Urban/ Urban;05/02/2022 20:30;dev_integral;Basse;39700
+732;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;Minivan;Faible;;Highly Urban/ Urban;26/03/2022 22:33;dev_premium;Moyenne;66300
+733;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Moyen;10.0;Highly Urban/ Urban;18/04/2022 16:02;dev_integral;Moyenne;66140
+734;M;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;01/03/2022 15:06;dev_integral;Basse;26700
+735;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Sports Car;Faible;1.0;Highly Urban/ Urban;30/01/2022 08:56;dev_integral;Basse;87270
+736;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Rural/ Rural;02/02/2022 16:00;dev_express;Basse;1440
+737;M;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;6.0;Highly Urban/ Urban;08/04/2022 12:42;dev_integral;Moyenne;51240
+738;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Panel Truck;Moyen;1.0;Highly Urban/ Urban;01/04/2022 19:14;dev_express;Basse;63118
+739;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;SUV;Faible;1.0;Highly Urban/ Urban;07/01/2022 22:44;dev_premium;Moyenne;38120
+740;F;Adulte : 25-64 ans;Aucun;VRAI;>120K;PhD;Private;SUV;Moyen;14.0;Highly Urban/ Urban;06/05/2022 19:34;dev_integral;Basse;38170
+741;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Van;Moyen;9.0;Highly Urban/ Urban;26/05/2022 22:28;dev_premium;Moyenne;4180
+742;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;09/03/2022 14:05;dev_integral;Moyenne;69210
+743;M;Adulte : 25-64 ans;Un;VRAI;[60K - 80K[;High School;Private;Van;Moyen;10.0;Highly Urban/ Urban;04/02/2022 19:11;dev_integral;Moyenne;61250
+744;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Minivan;Moyen;9.0;Highly Rural/ Rural;30/03/2022 17:53;dev_express;Basse;89300
+745;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;05/01/2022 01:49;dev_integral;Moyenne;62100
+746;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Minivan;Faible;8.0;Highly Urban/ Urban;13/03/2022 10:35;dev_express;Basse;18400
+747;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Faible;12.0;Highly Rural/ Rural;13/04/2022 11:44;dev_integral;Moyenne;13180
+748;M;Senior : 65 ans et plus;Aucun;VRAI;[80K - 120K[;PhD;Private;Minivan;Faible;14.0;Highly Urban/ Urban;03/05/2022 02:56;dev_express;Basse;88300
+749;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;5.0;Highly Urban/ Urban;10/03/2022 06:59;dev_express;Basse;40700
+750;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;SUV;Faible;8.0;Highly Urban/ Urban;19/03/2022 08:30;dev_integral;Moyenne;11100
+751;M;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Pickup;Moyen;9.0;Highly Urban/ Urban;12/05/2022 21:36;dev_integral;Moyenne;41330
+752;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;3.0;Highly Urban/ Urban;19/04/2022 01:39;dev_express;Basse;9100
+753;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;20.0;Highly Urban/ Urban;09/03/2022 04:34;dev_express;Basse;29830
+754;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Faible;9.0;Highly Urban/ Urban;30/03/2022 06:16;dev_integral;Basse;26320
+755;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;6.0;Highly Urban/ Urban;17/01/2022 09:47;dev_integral;Moyenne;61160
+756;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;14/04/2022 13:13;dev_express;Basse;75020
+757;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Sports Car;Faible;8.0;Highly Urban/ Urban;07/04/2022 23:39;dev_premium;Moyenne;8000
+758;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Sports Car;Faible;10.0;Highly Urban/ Urban;26/01/2022 06:42;dev_integral;Moyenne;1700
+759;M;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;PhD;Private;Minivan;Moyen;16.0;Highly Urban/ Urban;26/01/2022 18:39;dev_integral;Basse;83400
+760;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;SUV;Moyen;11.0;Highly Urban/ Urban;15/03/2022 15:42;dev_integral;Moyenne;95630
+761;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;SUV;Faible;17.0;Highly Urban/ Urban;30/05/2022 14:54;dev_integral;Moyenne;18110
+762;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;09/04/2022 00:17;dev_express;Basse;60600
+763;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Minivan;Faible;8.0;Highly Urban/ Urban;21/05/2022 17:50;dev_premium;Moyenne;27120
+764;M;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;High School;Commercial;Pickup;Faible;10.0;Highly Urban/ Urban;01/01/2022 05:44;dev_integral;Moyenne;80000
+765;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Moyen;15.0;Highly Urban/ Urban;24/02/2022 00:48;dev_express;Basse;80100
+766;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Pickup;Moyen;10.0;Highly Urban/ Urban;12/01/2022 00:48;dev_integral;Moyenne;92700
+767;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;14/01/2022 11:52;dev_integral;Moyenne;82110
+768;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;7.0;Highly Rural/ Rural;02/02/2022 05:11;dev_integral;Moyenne;5200
+769;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Moyen;14.0;Highly Urban/ Urban;10/04/2022 20:24;dev_integral;Moyenne;83500
+770;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Moyen;5.0;Highly Urban/ Urban;28/05/2022 19:58;dev_integral;Moyenne;29200
+771;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Minivan;Faible;1.0;Highly Urban/ Urban;19/05/2022 06:35;dev_integral;Moyenne;19800
+772;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Faible;9.0;Highly Urban/ Urban;05/03/2022 18:04;dev_integral;Basse;16440
+773;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Pickup;Moyen;16.0;Highly Urban/ Urban;04/01/2022 08:53;dev_express;Basse;75019
+774;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Van;Moyen;9.0;Highly Urban/ Urban;23/04/2022 00:38;dev_integral;Basse;76910
+775;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Masters;Private;SUV;Moyen;16.0;Highly Urban/ Urban;19/01/2022 08:22;dev_integral;Moyenne;93600
+776;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Pickup;Faible;19.0;Highly Urban/ Urban;14/05/2022 21:13;dev_integral;Basse;16100
+777;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Pickup;Moyen;4.0;Highly Urban/ Urban;22/02/2022 09:35;dev_integral;Moyenne;54110
+778;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;17.0;Highly Urban/ Urban;24/02/2022 12:40;dev_integral;Moyenne;10000
+779;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;Masters;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;26/05/2022 12:01;dev_express;Basse;32140
+780;F;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;SUV;Faible;1.0;Highly Rural/ Rural;14/01/2022 18:54;dev_integral;Basse;64210
+781;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;16.0;Highly Rural/ Rural;06/01/2022 06:03;dev_premium;Moyenne;40160
+782;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[80K - 120K[;Masters;Private;SUV;Moyen;22.0;Highly Urban/ Urban;21/01/2022 20:55;dev_integral;Basse;42370
+783;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Moyen;12.0;Highly Urban/ Urban;12/04/2022 15:22;dev_integral;Basse;52290
+784;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;05/01/2022 05:59;dev_premium;Moyenne;3300
+785;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Pickup;Faible;11.0;Highly Urban/ Urban;10/01/2022 06:19;dev_integral;Moyenne;4100
+786;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Minivan;Faible;1.0;Highly Rural/ Rural;08/04/2022 06:27;dev_premium;Moyenne;47500
+787;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Pickup;Moyen;15.0;Highly Urban/ Urban;30/03/2022 15:14;dev_integral;Basse;34400
+788;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Faible;16.0;Highly Urban/ Urban;12/04/2022 05:10;dev_express;Basse;29000
+789;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;15/03/2022 08:34;dev_integral;Moyenne;83230
+790;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;12/03/2022 10:18;dev_integral;Moyenne;1220
+791;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Pickup;Faible;17.0;Highly Urban/ Urban;14/03/2022 14:38;dev_integral;Basse;20240
+792;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Commercial;Van;Faible;13.0;Highly Urban/ Urban;09/01/2022 22:09;dev_integral;Moyenne;36000
+793;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Bachelors;Commercial;SUV;Faible;7.0;Highly Urban/ Urban;27/02/2022 16:55;dev_express;Basse;13821
+794;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;Bachelors;Private;SUV;Faible;10.0;Highly Urban/ Urban;02/02/2022 08:14;dev_premium;Moyenne;95550
+795;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Sports Car;Faible;1.0;Highly Urban/ Urban;06/03/2022 16:17;dev_express;Basse;52000
+796;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Minivan;Faible;12.0;Highly Urban/ Urban;06/01/2022 06:25;dev_express;Basse;4160
+797;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;9.0;Highly Urban/ Urban;03/04/2022 02:20;dev_integral;Moyenne;25120
+798;F;Adulte : 25-64 ans;Aucun;VRAI;>120K;Bachelors;Private;Minivan;Faible;10.0;Highly Urban/ Urban;30/04/2022 23:07;dev_integral;Basse;32500
+799;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Pickup;Faible;13.0;Highly Urban/ Urban;19/03/2022 17:09;dev_integral;Moyenne;63800
+800;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Minivan;Faible;9.0;Highly Rural/ Rural;24/01/2022 05:53;dev_express;Basse;29440
+801;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;23/02/2022 04:42;dev_integral;Moyenne;78360
+802;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;Sports Car;Moyen;8.0;Highly Urban/ Urban;17/05/2022 10:24;dev_integral;Basse;46220
+803;F;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;High School;Private;Van;Moyen;1.0;Highly Urban/ Urban;06/03/2022 00:45;dev_express;Basse;69400
+804;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;1.0;Highly Urban/ Urban;13/03/2022 16:07;dev_integral;Moyenne;91350
+805;M;Jeune : moins de 25 ans;Aucun;VRAI;Non connu;High School;Commercial;SUV;Faible;10.0;Highly Urban/ Urban;10/02/2022 20:24;dev_premium;Moyenne;16130
+806;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;PhD;Private;SUV;Faible;16.0;Highly Urban/ Urban;16/01/2022 04:07;dev_integral;Moyenne;95630
+807;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Panel Truck;Moyen;11.0;Highly Urban/ Urban;19/05/2022 17:14;dev_express;Basse;60350
+808;M;Senior : 65 ans et plus;Aucun;VRAI;>120K;PhD;Private;SUV;Moyen;18.0;Highly Urban/ Urban;18/04/2022 02:22;dev_express;Basse;61000
+809;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;SUV;Moyen;5.0;Highly Rural/ Rural;13/01/2022 09:31;dev_integral;Moyenne;21000
+810;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Faible;1.0;Highly Urban/ Urban;28/05/2022 06:19;dev_integral;Moyenne;20000
+811;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Panel Truck;Faible;15.0;Highly Urban/ Urban;28/03/2022 01:51;dev_express;Basse;30800
+812;F;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Private;Minivan;Faible;3.0;Highly Urban/ Urban;15/03/2022 17:21;dev_integral;Moyenne;75012
+813;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Pickup;Faible;7.0;Highly Urban/ Urban;10/03/2022 08:41;dev_integral;Moyenne;61360
+814;M;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Bachelors;Private;SUV;Moyen;5.0;Highly Rural/ Rural;20/01/2022 06:27;dev_express;Basse;16600
+815;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;22.0;Highly Urban/ Urban;09/04/2022 17:10;dev_integral;Moyenne;6330
+816;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Commercial;Pickup;Faible;21.0;Highly Urban/ Urban;05/03/2022 15:27;dev_premium;Moyenne;36120
+817;M;Jeune : moins de 25 ans;Un;VRAI;[80K - 120K[;Masters;Commercial;Van;Faible;14.0;Highly Urban/ Urban;09/04/2022 10:34;dev_premium;Moyenne;74130
+818;F;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;16/02/2022 13:50;dev_integral;Basse;75017
+819;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;Minivan;Moyen;10.0;Highly Urban/ Urban;06/04/2022 17:34;dev_integral;Moyenne;67290
+820;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Van;Moyen;11.0;Highly Urban/ Urban;23/03/2022 08:12;dev_express;Basse;11000
+821;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;25/01/2022 03:27;dev_express;Basse;72530
+822;F;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;SUV;Faible;7.0;Highly Urban/ Urban;21/01/2022 09:35;dev_express;Basse;12850
+823;M;Senior : 65 ans et plus;Aucun;VRAI;>120K;Masters;Private;Minivan;Elevé;15.0;Highly Urban/ Urban;27/01/2022 16:51;dev_integral;Moyenne;86550
+824;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Elevé;1.0;Highly Urban/ Urban;22/04/2022 14:21;dev_integral;Moyenne;42800
+825;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;SUV;Faible;17.0;Highly Urban/ Urban;13/03/2022 23:40;dev_express;Basse;21420
+826;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Van;Moyen;8.0;Highly Urban/ Urban;15/01/2022 03:03;dev_premium;Moyenne;76520
+827;F;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;Masters;Private;Minivan;Moyen;15.0;Highly Urban/ Urban;24/02/2022 23:09;dev_express;Basse;12300
+828;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;1.0;Highly Urban/ Urban;27/03/2022 17:51;dev_integral;Moyenne;38410
+829;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Van;Faible;10.0;Highly Urban/ Urban;02/04/2022 07:37;dev_express;Basse;89100
+830;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;18/02/2022 07:19;dev_integral;Basse;73870
+831;M;Senior : 65 ans et plus;Plusieurs;VRAI;[60K - 80K[;Bachelors;Private;SUV;Moyen;7.0;Highly Urban/ Urban;17/04/2022 09:27;dev_integral;Basse;70270
+832;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;;Highly Rural/ Rural;20/05/2022 03:29;dev_express;Basse;23320
+833;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;29/01/2022 23:20;dev_integral;Moyenne;60510
+834;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;PhD;Private;SUV;Moyen;7.0;Highly Urban/ Urban;01/05/2022 19:40;dev_express;Basse;30130
+835;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;02/05/2022 20:32;dev_premium;Moyenne;3210
+836;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Commercial;Van;Moyen;17.0;Highly Urban/ Urban;22/04/2022 21:23;dev_express;Basse;26120
+837;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Moyen;18.0;Highly Urban/ Urban;24/01/2022 10:55;dev_integral;Basse;34590
+838;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Private;Pickup;Faible;9.0;Highly Urban/ Urban;23/02/2022 01:41;dev_premium;Moyenne;50810
+839;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Commercial;Van;Moyen;1.0;Highly Urban/ Urban;22/05/2022 10:59;dev_premium;Moyenne;51100
+840;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;17/03/2022 14:31;dev_vip;Elevée;78200
+841;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;10.0;Highly Urban/ Urban;04/04/2022 00:54;dev_express;Basse;65000
+842;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Moyen;4.0;Highly Rural/ Rural;01/05/2022 00:26;dev_integral;Moyenne;32430
+843;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;Panel Truck;Moyen;6.0;Highly Urban/ Urban;02/05/2022 17:11;dev_integral;Basse;52120
+844;F;Jeune : moins de 25 ans;Un;VRAI;[80K - 120K[;High School;Commercial;Pickup;Faible;7.0;Highly Rural/ Rural;28/03/2022 12:11;dev_integral;Basse;92150
+845;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;19/05/2022 17:35;dev_integral;Moyenne;49250
+846;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Van;Faible;6.0;Highly Urban/ Urban;14/05/2022 09:17;dev_express;Basse;75002
+847;F;Senior : 65 ans et plus;Aucun;VRAI;>120K;PhD;Private;SUV;Faible;13.0;Highly Urban/ Urban;06/05/2022 04:55;dev_premium;Moyenne;41200
+848;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Moyen;10.0;Highly Urban/ Urban;25/04/2022 02:13;dev_premium;Moyenne;61140
+849;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;SUV;Moyen;13.0;Highly Urban/ Urban;18/03/2022 15:22;dev_premium;Moyenne;57640
+850;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;17.0;Highly Urban/ Urban;15/04/2022 20:51;dev_integral;Moyenne;10600
+851;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Commercial;Pickup;Faible;9.0;Highly Urban/ Urban;20/01/2022 21:33;dev_premium;Moyenne;16100
+852;F;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;High School;Commercial;SUV;Moyen;9.0;Highly Urban/ Urban;14/03/2022 05:31;dev_vip;Elevée;18000
+853;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Private;Sports Car;Moyen;12.0;Highly Urban/ Urban;08/01/2022 07:30;dev_express;Basse;5700
+854;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Faible;6.0;Highly Urban/ Urban;21/04/2022 14:09;dev_integral;Basse;11200
+855;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;SUV;Moyen;;Highly Urban/ Urban;19/02/2022 17:32;dev_premium;Moyenne;7700
+856;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;High School;Commercial;Panel Truck;Moyen;8.0;Highly Urban/ Urban;04/04/2022 09:50;dev_integral;Moyenne;62830
+857;M;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;High School;Private;SUV;Moyen;6.0;Highly Rural/ Rural;17/01/2022 08:07;dev_premium;Moyenne;59143
+858;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Moyen;12.0;Highly Urban/ Urban;14/01/2022 22:35;dev_express;Basse;68700
+859;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Bachelors;Commercial;Van;Moyen;13.0;Highly Urban/ Urban;01/02/2022 10:47;dev_integral;Moyenne;4210
+860;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;03/04/2022 06:07;dev_integral;Moyenne;52100
+861;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;PhD;Private;Minivan;Moyen;15.0;Highly Rural/ Rural;25/02/2022 19:43;dev_integral;Moyenne;70290
+862;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[0 - 40K[;High School;Private;SUV;Faible;5.0;Highly Urban/ Urban;14/05/2022 23:10;dev_express;Basse;83260
+863;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;01/02/2022 20:17;dev_express;Basse;82100
+864;F;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;09/02/2022 10:27;dev_premium;Moyenne;17220
+865;M;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Pickup;Moyen;9.0;Highly Urban/ Urban;13/01/2022 10:00;dev_integral;Moyenne;35500
+866;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Faible;8.0;Highly Urban/ Urban;14/05/2022 03:38;dev_express;Basse;26160
+867;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Moyen;;Highly Urban/ Urban;27/01/2022 11:04;dev_premium;Moyenne;58000
+868;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Van;Faible;7.0;Highly Urban/ Urban;03/01/2022 08:30;dev_integral;Moyenne;43110
+869;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;7.0;Highly Urban/ Urban;26/03/2022 11:54;dev_integral;Moyenne;49260
+870;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Masters;Private;Minivan;Faible;10.0;Highly Urban/ Urban;07/03/2022 22:55;dev_integral;Moyenne;69890
+871;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Faible;7.0;Highly Urban/ Urban;01/03/2022 05:37;dev_integral;Basse;70210
+872;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;SUV;Faible;13.0;Highly Urban/ Urban;04/05/2022 07:09;dev_integral;Moyenne;43220
+873;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;SUV;Faible;12.0;Highly Urban/ Urban;04/02/2022 19:41;dev_express;Basse;5300
+874;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Pickup;Moyen;9.0;Highly Urban/ Urban;26/04/2022 10:16;dev_premium;Moyenne;50440
+875;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;7.0;Highly Urban/ Urban;02/01/2022 05:31;dev_integral;Moyenne;24800
+876;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;PhD;Private;Minivan;Moyen;22.0;Highly Urban/ Urban;26/03/2022 09:04;dev_integral;Moyenne;72000
+877;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Van;Moyen;1.0;Highly Urban/ Urban;16/01/2022 22:31;dev_integral;Moyenne;88000
+878;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;High School;Private;Sports Car;Faible;;Highly Urban/ Urban;26/05/2022 01:56;dev_integral;Moyenne;92140
+879;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;24/03/2022 15:49;dev_express;Basse;77700
+880;M;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Private;Sports Car;Moyen;1.0;Highly Rural/ Rural;20/04/2022 06:44;dev_express;Basse;90500
+881;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Pickup;Faible;9.0;Highly Urban/ Urban;11/05/2022 12:25;dev_integral;Moyenne;42190
+882;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Minivan;Faible;10.0;Highly Urban/ Urban;13/01/2022 05:16;dev_express;Basse;63000
+883;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Moyen;9.0;Highly Urban/ Urban;21/03/2022 21:34;dev_express;Basse;16110
+884;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;11.0;Highly Rural/ Rural;18/01/2022 19:42;dev_express;Basse;64140
+885;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;13/04/2022 16:21;dev_express;Basse;34170
+886;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Masters;Commercial;Pickup;Faible;15.0;Highly Urban/ Urban;24/04/2022 13:56;dev_express;Basse;84000
+887;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;7.0;Highly Urban/ Urban;10/02/2022 20:57;dev_premium;Moyenne;27370
+888;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;28/02/2022 13:38;dev_integral;Basse;54840
+889;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;8.0;Highly Rural/ Rural;05/02/2022 23:52;dev_express;Basse;56100
+890;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Pickup;Faible;9.0;Highly Urban/ Urban;27/03/2022 09:37;dev_express;Basse;77440
+891;F;Adulte : 25-64 ans;Aucun;FAUX;Non connu;High School;Private;SUV;Moyen;7.0;Highly Rural/ Rural;05/01/2022 09:36;dev_express;Basse;91410
+892;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Moyen;14.0;Highly Urban/ Urban;03/05/2022 13:03;dev_express;Basse;25300
+893;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;26/03/2022 15:22;dev_express;Basse;78980
+894;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Commercial;Panel Truck;Faible;15.0;Highly Urban/ Urban;31/01/2022 22:44;dev_express;Basse;69520
+895;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;20.0;Highly Urban/ Urban;30/04/2022 07:11;dev_express;Basse;34560
+896;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;13.0;Highly Urban/ Urban;04/02/2022 16:10;dev_premium;Moyenne;92000
+897;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;High School;Private;Sports Car;Moyen;9.0;Highly Rural/ Rural;20/01/2022 00:18;dev_integral;Moyenne;17200
+898;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;19.0;Highly Urban/ Urban;22/03/2022 00:59;dev_integral;Moyenne;71250
+899;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Faible;13.0;Highly Urban/ Urban;31/05/2022 06:29;dev_premium;Moyenne;36140
+900;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;High School;Commercial;Sports Car;Moyen;1.0;Highly Urban/ Urban;05/01/2022 05:06;dev_integral;Basse;72330
+901;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Elevé;0.0;Highly Urban/ Urban;23/04/2022 05:49;dev_express;Basse;19410
+902;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Faible;1.0;Highly Rural/ Rural;02/05/2022 13:16;dev_express;Basse;91150
+903;F;Jeune : moins de 25 ans;Un;VRAI;[40K - 60K[;High School;Commercial;Minivan;Faible;10.0;Highly Urban/ Urban;11/04/2022 11:41;dev_integral;Basse;33440
+904;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;04/02/2022 15:17;dev_express;Basse;33290
+905;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;22/01/2022 15:31;dev_vip;Elevée;75020
+906;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Moyen;11.0;Highly Urban/ Urban;18/03/2022 16:21;dev_express;Basse;33510
+907;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;6.0;Highly Urban/ Urban;08/02/2022 16:14;dev_integral;Moyenne;61110
+908;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[0 - 40K[;High School;Commercial;SUV;Faible;8.0;Highly Rural/ Rural;21/02/2022 08:59;dev_express;Basse;34830
+909;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Van;Moyen;;Highly Urban/ Urban;13/01/2022 01:41;dev_integral;Moyenne;78120
+910;F;Adulte : 25-64 ans;Un;VRAI;[60K - 80K[;Masters;Private;Pickup;Faible;11.0;Highly Urban/ Urban;20/05/2022 20:26;dev_express;Basse;8000
+911;M;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;19/02/2022 12:40;dev_express;Basse;42170
+912;F;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;13/04/2022 06:07;dev_premium;Moyenne;93450
+913;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;SUV;Faible;8.0;Highly Rural/ Rural;25/03/2022 10:32;dev_integral;Moyenne;89340
+914;F;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Sports Car;Faible;17.0;Highly Urban/ Urban;08/05/2022 03:44;dev_express;Basse;6110
+915;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;8.0;Highly Urban/ Urban;08/01/2022 09:26;dev_express;Basse;65100
+916;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;1.0;Highly Rural/ Rural;20/02/2022 21:02;dev_integral;Basse;35131
+917;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Sports Car;Faible;6.0;Highly Urban/ Urban;17/02/2022 13:28;dev_integral;Moyenne;8000
+918;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Faible;9.0;Highly Urban/ Urban;24/01/2022 09:56;dev_integral;Moyenne;66380
+919;F;Senior : 65 ans et plus;Un;VRAI;[60K - 80K[;Bachelors;Private;Sports Car;Moyen;14.0;Highly Urban/ Urban;23/05/2022 04:04;dev_integral;Moyenne;18000
+920;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Commercial;SUV;Faible;11.0;Highly Urban/ Urban;12/05/2022 14:06;dev_express;Basse;19200
+921;M;Senior : 65 ans et plus;Un;VRAI;[60K - 80K[;Bachelors;Private;SUV;Faible;6.0;Highly Urban/ Urban;25/02/2022 05:46;dev_integral;Basse;77720
+922;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;;Highly Urban/ Urban;20/05/2022 20:57;dev_express;Basse;78340
+923;F;Senior : 65 ans et plus;Aucun;VRAI;>120K;PhD;Commercial;Panel Truck;Faible;7.0;Highly Urban/ Urban;22/02/2022 03:31;dev_premium;Moyenne;6150
+924;F;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;6.0;Highly Urban/ Urban;23/02/2022 09:01;dev_express;Basse;41240
+925;M;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;28/03/2022 01:18;dev_premium;Moyenne;3460
+926;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;SUV;Faible;7.0;Highly Rural/ Rural;02/05/2022 08:14;dev_express;Basse;37150
+927;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;4.0;Highly Urban/ Urban;20/03/2022 06:02;dev_integral;Moyenne;41200
+928;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;SUV;Moyen;10.0;Highly Urban/ Urban;23/04/2022 18:46;dev_integral;Moyenne;87500
+929;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Elevé;7.0;Highly Urban/ Urban;11/04/2022 13:58;dev_express;Basse;72000
+930;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Commercial;Van;Faible;12.0;Highly Urban/ Urban;23/04/2022 16:15;dev_premium;Moyenne;25200
+931;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Panel Truck;Faible;1.0;Highly Rural/ Rural;13/04/2022 06:30;dev_express;Basse;72100
+932;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Pickup;Moyen;10.0;Highly Rural/ Rural;26/03/2022 17:10;dev_integral;Basse;85270
+933;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;6.0;Highly Urban/ Urban;28/02/2022 13:20;dev_integral;Basse;75016
+934;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;;Highly Urban/ Urban;18/03/2022 02:48;dev_integral;Moyenne;10440
+935;M;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Bachelors;Commercial;Minivan;Moyen;1.0;Highly Urban/ Urban;17/02/2022 04:34;dev_express;Basse;3410
+936;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Minivan;Moyen;10.0;Highly Urban/ Urban;23/02/2022 14:57;dev_premium;Moyenne;65220
+937;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;;Highly Urban/ Urban;23/01/2022 05:09;dev_integral;Basse;49410
+938;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;;Highly Urban/ Urban;03/05/2022 10:57;dev_integral;Basse;35760
+939;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Van;Faible;12.0;Highly Urban/ Urban;17/01/2022 12:09;dev_premium;Moyenne;69490
+940;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;High School;Commercial;SUV;Faible;1.0;Highly Urban/ Urban;17/05/2022 21:52;dev_integral;Moyenne;63430
+941;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[80K - 120K[;Bachelors;Commercial;Panel Truck;Moyen;1.0;Highly Urban/ Urban;08/02/2022 17:21;dev_premium;Moyenne;69410
+942;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Private;SUV;Faible;8.0;Highly Urban/ Urban;06/01/2022 07:34;dev_express;Basse;55100
+943;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Commercial;Pickup;Faible;;Highly Urban/ Urban;18/03/2022 04:48;dev_express;Basse;61310
+944;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Sports Car;Moyen;8.0;Highly Urban/ Urban;20/04/2022 00:32;dev_express;Basse;86550
+945;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;SUV;Moyen;16.0;Highly Urban/ Urban;05/01/2022 23:57;dev_integral;Moyenne;86320
+946;F;Jeune : moins de 25 ans;Aucun;VRAI;Non connu;High School;Private;Minivan;Faible;8.0;Highly Urban/ Urban;07/03/2022 13:17;dev_express;Basse;64800
+947;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Faible;10.0;Highly Urban/ Urban;08/04/2022 06:36;dev_premium;Moyenne;92700
+948;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Moyen;13.0;Highly Urban/ Urban;13/01/2022 13:58;dev_integral;Moyenne;67380
+949;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;19.0;Highly Urban/ Urban;22/01/2022 04:31;dev_integral;Basse;29640
+950;M;Senior : 65 ans et plus;Plusieurs;VRAI;>120K;Bachelors;Private;SUV;Faible;11.0;Highly Urban/ Urban;13/05/2022 07:42;dev_premium;Moyenne;24650
+951;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;Masters;Private;SUV;Moyen;19.0;Highly Urban/ Urban;01/03/2022 00:11;dev_express;Basse;5110
+952;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Moyen;5.0;Highly Rural/ Rural;17/05/2022 00:52;dev_integral;Moyenne;58110
+953;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Minivan;Moyen;19.0;Highly Urban/ Urban;27/02/2022 06:06;dev_integral;Moyenne;52290
+954;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;8.0;Highly Urban/ Urban;14/01/2022 18:08;dev_express;Basse;50000
+955;M;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;Bachelors;Private;SUV;Moyen;11.0;Highly Rural/ Rural;12/04/2022 03:39;dev_vip;Moyenne;41350
+956;F;Adulte : 25-64 ans;Aucun;FAUX;Non connu;Bachelors;Private;SUV;Faible;12.0;Highly Urban/ Urban;03/04/2022 21:09;dev_integral;Moyenne;52400
+957;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;7.0;Highly Urban/ Urban;15/02/2022 06:50;dev_premium;Moyenne;47300
+958;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;PhD;Commercial;Panel Truck;Faible;15.0;Highly Urban/ Urban;21/04/2022 08:04;dev_express;Basse;48190
+959;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Rural/ Rural;13/04/2022 17:06;dev_premium;Moyenne;30190
+960;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Minivan;Moyen;8.0;Highly Urban/ Urban;11/02/2022 09:08;dev_premium;Moyenne;64800
+961;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Moyen;1.0;Highly Urban/ Urban;13/02/2022 07:43;dev_premium;Moyenne;38080
+962;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Private;SUV;Faible;15.0;Highly Urban/ Urban;16/05/2022 04:25;dev_premium;Moyenne;12630
+963;F;Adulte : 25-64 ans;Plusieurs;VRAI;>120K;Masters;Private;Minivan;Faible;20.0;Highly Urban/ Urban;18/03/2022 14:59;dev_integral;Moyenne;61000
+964;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;High School;Private;Minivan;Moyen;;Highly Urban/ Urban;18/01/2022 16:49;dev_express;Basse;71230
+965;F;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;23/05/2022 10:42;dev_express;Basse;92000
+966;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;SUV;Faible;16.0;Highly Urban/ Urban;16/03/2022 01:51;dev_express;Basse;44490
+967;M;Jeune : moins de 25 ans;Aucun;FAUX;>120K;PhD;Private;Sports Car;Faible;;Highly Urban/ Urban;04/04/2022 23:29;dev_integral;Moyenne;88400
+968;M;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;31/03/2022 19:33;dev_integral;Basse;7300
+969;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Minivan;Faible;22.0;Highly Urban/ Urban;28/02/2022 17:00;dev_express;Basse;13380
+970;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;16/04/2022 11:32;dev_premium;Moyenne;39380
+971;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;SUV;Moyen;15.0;Highly Urban/ Urban;12/02/2022 15:16;dev_premium;Moyenne;71480
+972;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;SUV;Faible;13.0;Highly Rural/ Rural;29/01/2022 14:32;dev_express;Basse;80140
+973;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;30/04/2022 23:46;dev_express;Basse;31620
+974;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Van;Faible;18.0;Highly Urban/ Urban;25/02/2022 17:52;dev_integral;Moyenne;82340
+975;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;30/04/2022 20:11;dev_express;Basse;9100
+976;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Moyen;17.0;Highly Urban/ Urban;25/02/2022 11:45;dev_express;Basse;76600
+977;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;06/05/2022 12:51;dev_integral;Moyenne;62164
+978;F;Adulte : 25-64 ans;Plusieurs;VRAI;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;16/03/2022 23:26;dev_integral;Moyenne;71640
+979;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;7.0;Highly Urban/ Urban;06/04/2022 16:10;dev_integral;Moyenne;22960
+980;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Moyen;13.0;Highly Urban/ Urban;06/03/2022 01:34;dev_integral;Moyenne;17340
+981;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;Minivan;Faible;16.0;Highly Urban/ Urban;04/03/2022 02:26;dev_express;Basse;38770
+982;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Sports Car;Faible;10.0;Highly Urban/ Urban;06/05/2022 07:53;dev_express;Basse;47200
+983;F;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;Masters;Private;Pickup;Moyen;21.0;Highly Urban/ Urban;01/02/2022 02:51;dev_integral;Moyenne;16600
+984;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;PhD;Commercial;Panel Truck;Faible;23.0;Highly Urban/ Urban;16/03/2022 12:50;dev_express;Basse;9100
+985;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Panel Truck;Moyen;8.0;Highly Urban/ Urban;13/03/2022 03:20;dev_premium;Moyenne;62232
+986;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;16/04/2022 09:07;dev_integral;Moyenne;3200
+987;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Moyen;1.0;Highly Urban/ Urban;05/03/2022 10:49;dev_express;Basse;7160
+988;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Moyen;17.0;Highly Urban/ Urban;19/03/2022 05:51;dev_express;Basse;10160
+989;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Rural/ Rural;01/05/2022 13:37;dev_premium;Moyenne;22000
+990;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Sports Car;Moyen;9.0;Highly Urban/ Urban;19/01/2022 12:58;dev_integral;Moyenne;1480
+991;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;11.0;Highly Urban/ Urban;23/01/2022 02:06;dev_integral;Basse;5100
+992;F;Adulte : 25-64 ans;Aucun;FAUX;Non connu;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;15/03/2022 01:06;dev_integral;Basse;27310
+993;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Sports Car;Faible;1.0;Highly Urban/ Urban;14/01/2022 13:28;dev_integral;Moyenne;30000
+994;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Moyen;1.0;Highly Urban/ Urban;22/01/2022 06:26;dev_express;Basse;68200
+995;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Sports Car;Faible;15.0;Highly Urban/ Urban;03/03/2022 16:50;dev_integral;Basse;40480
+996;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;High School;Private;SUV;Faible;8.0;Highly Rural/ Rural;01/04/2022 06:27;dev_integral;Moyenne;15000
+997;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Van;Moyen;1.0;Highly Urban/ Urban;06/04/2022 11:25;dev_integral;Moyenne;77510
+998;M;Senior : 65 ans et plus;Aucun;FAUX;>120K;Masters;Commercial;Pickup;Faible;16.0;Highly Urban/ Urban;16/05/2022 07:44;dev_express;Basse;9100
+999;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Faible;11.0;Highly Urban/ Urban;15/02/2022 05:03;dev_express;Basse;21250
+1000;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;4.0;Highly Rural/ Rural;16/02/2022 20:38;dev_integral;Moyenne;20290
+1001;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Moyen;6.0;Highly Urban/ Urban;14/03/2022 19:17;dev_express;Basse;87430
+1002;F;Senior : 65 ans et plus;Aucun;FAUX;Non connu;High School;Private;SUV;Faible;5.0;Highly Rural/ Rural;22/04/2022 23:48;dev_integral;Moyenne;87200
+1003;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Minivan;Moyen;14.0;Highly Urban/ Urban;31/05/2022 09:26;dev_integral;Moyenne;12300
+1004;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;;Highly Urban/ Urban;25/02/2022 10:22;dev_integral;Moyenne;58420
+1005;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;4.0;Highly Urban/ Urban;12/03/2022 18:17;dev_express;Basse;95310
+1006;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;25/05/2022 17:39;dev_express;Basse;9100
+1007;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;11/02/2022 11:55;dev_express;Basse;34170
+1008;M;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;Masters;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;09/02/2022 03:38;dev_express;Basse;55250
+1009;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Masters;Private;SUV;Faible;12.0;Highly Urban/ Urban;23/04/2022 08:07;dev_integral;Basse;18250
+1010;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;SUV;Moyen;10.0;Highly Urban/ Urban;06/03/2022 05:04;dev_integral;Moyenne;80480
+1011;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;18/03/2022 00:31;dev_express;Basse;80100
+1012;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;Bachelors;Private;Pickup;Elevé;1.0;Highly Urban/ Urban;29/03/2022 15:07;dev_express;Basse;3100
+1013;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Rural/ Rural;30/03/2022 05:03;dev_express;Basse;31460
+1014;M;Senior : 65 ans et plus;Aucun;VRAI;>120K;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;18/05/2022 15:04;dev_express;Basse;21000
+1015;M;Adulte : 25-64 ans;Plusieurs;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Moyen;9.0;Highly Urban/ Urban;01/05/2022 13:54;dev_integral;Basse;64100
+1016;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Minivan;Faible;18.0;Highly Rural/ Rural;04/03/2022 08:26;dev_express;Basse;55210
+1017;M;Adulte : 25-64 ans;Plusieurs;VRAI;[80K - 120K[;Masters;Private;Minivan;Faible;14.0;Highly Urban/ Urban;12/03/2022 22:34;dev_premium;Moyenne;83210
+1018;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Moyen;10.0;Highly Urban/ Urban;14/03/2022 18:09;dev_express;Basse;25240
+1019;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Moyen;18.0;Highly Urban/ Urban;29/01/2022 04:45;dev_premium;Moyenne;79100
+1020;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Moyen;7.0;Highly Rural/ Rural;09/05/2022 20:08;dev_premium;Moyenne;57810
+1021;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Private;Sports Car;Faible;18.0;Highly Urban/ Urban;15/01/2022 15:51;dev_premium;Moyenne;89320
+1022;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;11/05/2022 19:20;dev_express;Basse;69480
+1023;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;Masters;Private;SUV;Faible;;Highly Urban/ Urban;22/05/2022 23:11;dev_integral;Moyenne;62300
+1024;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;Masters;Private;Sports Car;Faible;15.0;Highly Urban/ Urban;16/03/2022 05:57;dev_premium;Moyenne;59400
+1025;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Moyen;15.0;Highly Urban/ Urban;10/02/2022 06:27;dev_express;Basse;91670
+1026;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Urban/ Urban;30/05/2022 19:20;dev_express;Basse;86600
+1027;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;SUV;Faible;11.0;Highly Urban/ Urban;10/01/2022 18:50;dev_integral;Moyenne;19000
+1028;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Urban/ Urban;21/05/2022 14:48;dev_integral;Basse;4190
+1029;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Bachelors;Private;Van;Moyen;1.0;Highly Urban/ Urban;09/04/2022 07:59;dev_express;Basse;92140
+1030;F;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;High School;Commercial;Pickup;Moyen;11.0;Highly Urban/ Urban;13/02/2022 15:50;dev_vip;Elevée;79160
+1031;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;6.0;Highly Rural/ Rural;25/02/2022 01:50;dev_integral;Basse;86180
+1032;F;Senior : 65 ans et plus;Plusieurs;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Moyen;12.0;Highly Urban/ Urban;02/01/2022 16:50;dev_integral;Moyenne;7600
+1033;M;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Sports Car;Faible;;Highly Urban/ Urban;02/04/2022 01:41;dev_express;Basse;88190
+1034;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;High School;Private;Pickup;Moyen;1.0;Highly Rural/ Rural;03/05/2022 20:04;dev_premium;Moyenne;1360
+1035;M;Adulte : 25-64 ans;Aucun;FAUX;Non connu;PhD;Private;Van;Faible;14.0;Highly Urban/ Urban;25/04/2022 17:47;dev_express;Basse;36000
+1036;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Pickup;Moyen;16.0;Highly Rural/ Rural;08/03/2022 01:20;dev_integral;Moyenne;87230
+1037;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Bachelors;Commercial;Minivan;Moyen;;Highly Urban/ Urban;31/05/2022 07:38;dev_integral;Moyenne;73230
+1038;M;Adulte : 25-64 ans;Aucun;VRAI;Non connu;Bachelors;Commercial;Pickup;Faible;8.0;Highly Rural/ Rural;21/01/2022 17:55;dev_integral;Basse;32600
+1039;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;27/04/2022 00:55;dev_integral;Moyenne;45370
+1040;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;25/04/2022 21:28;dev_integral;Basse;66210
+1041;M;Senior : 65 ans et plus;Aucun;VRAI;>120K;Masters;Private;SUV;Faible;15.0;Highly Urban/ Urban;05/03/2022 04:31;dev_integral;Basse;28210
+1042;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Urban/ Urban;21/01/2022 20:31;dev_integral;Basse;10000
+1043;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Panel Truck;Moyen;15.0;Highly Urban/ Urban;25/04/2022 02:27;dev_integral;Moyenne;63720
+1044;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;14.0;Highly Urban/ Urban;29/03/2022 10:10;dev_integral;Basse;82100
+1045;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;PhD;Commercial;Sports Car;Moyen;10.0;Highly Urban/ Urban;13/02/2022 12:49;dev_integral;Basse;91410
+1046;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Sports Car;Faible;1.0;Highly Rural/ Rural;11/02/2022 19:49;dev_express;Basse;44600
+1047;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Panel Truck;Faible;9.0;Highly Rural/ Rural;28/05/2022 14:51;dev_integral;Basse;55300
+1048;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Minivan;Moyen;8.0;Highly Urban/ Urban;03/04/2022 10:24;dev_integral;Moyenne;34000
+1049;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Moyen;9.0;Highly Rural/ Rural;20/05/2022 00:54;dev_integral;Moyenne;40530
+1050;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;6.0;Highly Urban/ Urban;22/04/2022 07:51;dev_express;Basse;48000
+1051;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Commercial;SUV;Faible;8.0;Highly Urban/ Urban;29/01/2022 23:53;dev_integral;Moyenne;74500
+1052;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;21/05/2022 16:52;dev_integral;Moyenne;34000
+1053;M;Jeune : moins de 25 ans;Aucun;FAUX;Non connu;Bachelors;Commercial;Minivan;Faible;8.0;Highly Urban/ Urban;04/05/2022 21:53;dev_integral;Moyenne;22700
+1054;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Minivan;Moyen;12.0;Highly Urban/ Urban;25/01/2022 02:36;dev_premium;Moyenne;82800
+1055;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Panel Truck;Faible;1.0;Highly Urban/ Urban;27/01/2022 10:59;dev_integral;Moyenne;56100
+1056;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Private;Pickup;Moyen;17.0;Highly Urban/ Urban;11/03/2022 17:06;dev_integral;Moyenne;88190
+1057;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;High School;Commercial;Minivan;Faible;1.0;Highly Rural/ Rural;25/05/2022 04:29;dev_integral;Moyenne;1230
+1058;F;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Minivan;Faible;5.0;Highly Urban/ Urban;20/01/2022 13:19;dev_premium;Moyenne;77600
+1059;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;22/04/2022 03:55;dev_integral;Moyenne;31320
+1060;F;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Panel Truck;Moyen;15.0;Highly Urban/ Urban;10/02/2022 11:43;dev_integral;Basse;41120
+1061;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Moyen;15.0;Highly Urban/ Urban;24/02/2022 22:38;dev_express;Basse;39600
+1062;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Private;Sports Car;Moyen;12.0;Highly Urban/ Urban;17/03/2022 13:01;dev_express;Basse;19100
+1063;F;Jeune : moins de 25 ans;Plusieurs;FAUX;>120K;PhD;Private;SUV;Moyen;;Highly Urban/ Urban;04/03/2022 23:01;dev_express;Basse;91160
+1064;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;1.0;Highly Rural/ Rural;20/04/2022 21:31;dev_express;Basse;73100
+1065;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;Masters;Private;Van;Moyen;12.0;Highly Urban/ Urban;30/01/2022 10:23;dev_express;Basse;37400
+1066;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Moyen;17.0;Highly Urban/ Urban;11/02/2022 03:05;dev_integral;Basse;56330
+1067;F;Senior : 65 ans et plus;Aucun;VRAI;[40K - 60K[;Bachelors;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;05/03/2022 22:31;dev_integral;Basse;20240
+1068;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Van;Moyen;1.0;Highly Urban/ Urban;16/02/2022 21:11;dev_express;Basse;93420
+1069;F;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Masters;Private;Van;Faible;12.0;Highly Urban/ Urban;25/01/2022 22:15;dev_integral;Moyenne;66540
+1070;F;Adulte : 25-64 ans;Plusieurs;VRAI;>120K;Bachelors;Commercial;Pickup;Faible;1.0;Highly Rural/ Rural;06/03/2022 06:46;dev_express;Basse;12000
+1071;F;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Commercial;Van;Faible;1.0;Highly Urban/ Urban;15/04/2022 19:54;dev_express;Basse;37130
+1072;M;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Bachelors;Commercial;Van;Faible;11.0;Highly Rural/ Rural;24/03/2022 05:03;dev_integral;Moyenne;79000
+1073;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Commercial;Panel Truck;Moyen;19.0;Highly Urban/ Urban;06/02/2022 04:58;dev_integral;Moyenne;65220
+1074;F;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;Bachelors;Commercial;Pickup;Faible;12.0;Highly Urban/ Urban;27/03/2022 09:03;dev_integral;Moyenne;69240
+1075;F;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;High School;Private;Van;Faible;;Highly Urban/ Urban;28/02/2022 04:43;dev_express;Basse;18110
+1076;F;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;7.0;Highly Urban/ Urban;17/02/2022 12:07;dev_express;Basse;53160
+1077;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Private;SUV;Moyen;8.0;Highly Urban/ Urban;21/03/2022 04:50;dev_integral;Moyenne;43250
+1078;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Commercial;Panel Truck;Faible;1.0;Highly Urban/ Urban;29/04/2022 13:22;dev_express;Basse;16200
+1079;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Minivan;Moyen;10.0;Highly Urban/ Urban;21/04/2022 12:08;dev_express;Basse;28190
+1080;F;Jeune : moins de 25 ans;Aucun;FAUX;>120K;Bachelors;Commercial;Panel Truck;Moyen;1.0;Highly Urban/ Urban;19/01/2022 11:20;dev_integral;Moyenne;71150
+1081;M;Senior : 65 ans et plus;Aucun;VRAI;>120K;Masters;Private;Minivan;Faible;15.0;Highly Urban/ Urban;09/03/2022 20:30;dev_integral;Moyenne;73200
+1082;M;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Sports Car;Moyen;17.0;Highly Urban/ Urban;01/03/2022 14:18;dev_express;Basse;18150
+1083;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;SUV;Faible;18.0;Highly Urban/ Urban;25/02/2022 19:38;dev_express;Basse;72230
+1084;F;Jeune : moins de 25 ans;Aucun;VRAI;[80K - 120K[;Bachelors;Commercial;Minivan;Faible;1.0;Highly Urban/ Urban;06/04/2022 01:42;dev_integral;Moyenne;89390
+1085;F;Senior : 65 ans et plus;Plusieurs;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;4.0;Highly Urban/ Urban;04/04/2022 10:25;dev_express;Basse;59820
+1086;F;Adulte : 25-64 ans;Un;VRAI;[40K - 60K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;04/02/2022 21:07;dev_express;Basse;95430
+1087;M;Senior : 65 ans et plus;Aucun;FAUX;Non connu;Bachelors;Commercial;Van;Moyen;8.0;Highly Urban/ Urban;06/01/2022 03:31;dev_express;Basse;46090
+1088;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;SUV;Faible;14.0;Highly Urban/ Urban;15/03/2022 18:00;dev_integral;Moyenne;50610
+1089;M;Adulte : 25-64 ans;Aucun;VRAI;[80K - 120K[;High School;Commercial;Van;Moyen;1.0;Highly Urban/ Urban;23/01/2022 03:10;dev_express;Basse;58400
+1090;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Faible;1.0;Highly Urban/ Urban;18/02/2022 02:05;dev_integral;Moyenne;65100
+1091;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;Masters;Private;Sports Car;Elevé;6.0;Highly Urban/ Urban;09/02/2022 05:52;dev_integral;Basse;3300
+1092;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Pickup;Faible;6.0;Highly Rural/ Rural;07/04/2022 03:39;dev_integral;Moyenne;85270
+1093;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;16.0;Highly Rural/ Rural;03/04/2022 15:51;dev_integral;Moyenne;79290
+1094;F;Jeune : moins de 25 ans;Plusieurs;VRAI;[0 - 40K[;PhD;Commercial;Pickup;Faible;19.0;Highly Urban/ Urban;01/03/2022 20:07;dev_integral;Moyenne;78300
+1095;F;Adulte : 25-64 ans;Un;VRAI;[80K - 120K[;Bachelors;Private;Minivan;Moyen;13.0;Highly Urban/ Urban;31/03/2022 06:34;dev_premium;Moyenne;19600
+1096;F;Adulte : 25-64 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Minivan;Moyen;8.0;Highly Urban/ Urban;24/01/2022 07:06;dev_express;Basse;10440
+1097;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;;Highly Rural/ Rural;24/02/2022 16:14;dev_integral;Basse;11500
+1098;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Minivan;Moyen;12.0;Highly Urban/ Urban;26/01/2022 07:50;dev_express;Basse;35800
+1099;M;Senior : 65 ans et plus;Plusieurs;VRAI;Non connu;Bachelors;Commercial;SUV;Moyen;9.0;Highly Urban/ Urban;07/02/2022 09:30;dev_express;Basse;59240
+1100;M;Adulte : 25-64 ans;Aucun;VRAI;>120K;PhD;Private;Van;Faible;13.0;Highly Urban/ Urban;11/03/2022 02:37;dev_vip;Elevée;49290
+1101;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Masters;Private;Minivan;Moyen;9.0;Highly Rural/ Rural;08/03/2022 10:38;dev_integral;Moyenne;20000
+1102;M;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Faible;8.0;Highly Urban/ Urban;15/04/2022 09:55;dev_express;Basse;87000
+1103;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;SUV;Faible;9.0;Highly Urban/ Urban;29/05/2022 18:16;dev_integral;Moyenne;29120
+1104;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Minivan;Faible;1.0;Highly Rural/ Rural;16/04/2022 13:39;dev_express;Basse;26200
+1105;M;Jeune : moins de 25 ans;Plusieurs;VRAI;[80K - 120K[;Masters;Commercial;Panel Truck;Elevé;16.0;Highly Urban/ Urban;22/01/2022 05:58;dev_express;Basse;20290
+1106;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Masters;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;27/03/2022 20:38;dev_premium;Moyenne;20000
+1107;M;Jeune : moins de 25 ans;Aucun;VRAI;[40K - 60K[;Bachelors;Private;SUV;Faible;10.0;Highly Urban/ Urban;04/01/2022 05:01;dev_integral;Basse;60300
+1108;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Elevé;8.0;Highly Urban/ Urban;13/02/2022 15:16;dev_integral;Moyenne;1390
+1109;M;Adulte : 25-64 ans;Aucun;VRAI;>120K;Masters;Private;SUV;Moyen;14.0;Highly Urban/ Urban;19/03/2022 20:36;dev_premium;Moyenne;36200
+1110;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;23/03/2022 12:55;dev_integral;Moyenne;24600
+1111;M;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Sports Car;Faible;21.0;Highly Urban/ Urban;24/02/2022 13:26;dev_express;Basse;73000
+1112;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Sports Car;Faible;1.0;Highly Urban/ Urban;30/05/2022 19:44;dev_integral;Moyenne;93380
+1113;M;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Van;Moyen;4.0;Highly Urban/ Urban;02/03/2022 11:38;dev_express;Basse;14440
+1114;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Minivan;Faible;16.0;Highly Urban/ Urban;20/05/2022 22:56;dev_integral;Moyenne;92000
+1115;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;Masters;Private;Pickup;Faible;10.0;Highly Urban/ Urban;29/04/2022 03:01;dev_integral;Moyenne;90000
+1116;M;Jeune : moins de 25 ans;Aucun;VRAI;[0 - 40K[;High School;Private;Pickup;Faible;7.0;Highly Urban/ Urban;25/01/2022 05:05;dev_express;Basse;95220
+1117;F;Adulte : 25-64 ans;Aucun;FAUX;[40K - 60K[;High School;Commercial;Pickup;Faible;1.0;Highly Urban/ Urban;03/03/2022 19:35;dev_integral;Moyenne;64260
+1118;M;Senior : 65 ans et plus;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;9.0;Highly Urban/ Urban;16/02/2022 23:56;dev_express;Basse;22290
+1119;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;PhD;Private;Minivan;Faible;12.0;Highly Urban/ Urban;08/04/2022 12:32;dev_integral;Moyenne;49000
+1120;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;Sports Car;Faible;9.0;Highly Urban/ Urban;24/05/2022 09:52;dev_integral;Moyenne;61400
+1121;F;Adulte : 25-64 ans;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;15.0;Highly Urban/ Urban;02/03/2022 00:49;dev_integral;Moyenne;9000
+1122;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Faible;12.0;Highly Urban/ Urban;09/02/2022 22:53;dev_premium;Moyenne;25200
+1123;M;Jeune : moins de 25 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Minivan;Moyen;4.0;Highly Urban/ Urban;24/01/2022 05:37;dev_integral;Moyenne;13011
+1124;F;Jeune : moins de 25 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Commercial;Pickup;Faible;11.0;Highly Rural/ Rural;20/03/2022 04:45;dev_express;Basse;43100
+1125;M;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;Bachelors;Private;Pickup;Faible;12.0;Highly Urban/ Urban;16/03/2022 09:04;dev_integral;Moyenne;71150
+1126;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Commercial;Minivan;Faible;11.0;Highly Rural/ Rural;15/03/2022 13:46;dev_express;Basse;3100
+1127;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;High School;Private;SUV;Faible;8.0;Highly Rural/ Rural;24/05/2022 16:03;dev_integral;Moyenne;74440
+1128;M;Jeune : moins de 25 ans;Aucun;FAUX;[80K - 120K[;Bachelors;Private;SUV;Moyen;7.0;Highly Urban/ Urban;26/03/2022 03:48;dev_integral;Moyenne;21000
+1129;F;Jeune : moins de 25 ans;Aucun;FAUX;[60K - 80K[;High School;Private;SUV;Moyen;4.0;Highly Urban/ Urban;28/05/2022 19:05;dev_integral;Moyenne;67520
+1130;F;Senior : 65 ans et plus;Aucun;FAUX;>120K;PhD;Private;SUV;Faible;12.0;Highly Urban/ Urban;19/04/2022 21:51;dev_integral;Moyenne;10700
+1131;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Minivan;Faible;1.0;Highly Urban/ Urban;04/04/2022 05:24;dev_express;Basse;18410
+1132;F;Adulte : 25-64 ans;Aucun;VRAI;[60K - 80K[;Bachelors;Private;Minivan;Moyen;8.0;Highly Urban/ Urban;25/01/2022 05:14;dev_express;Basse;92170
+1133;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;10.0;Highly Rural/ Rural;25/02/2022 17:41;dev_integral;Moyenne;48400
+1134;M;Adulte : 25-64 ans;Aucun;VRAI;[40K - 60K[;Bachelors;Private;SUV;Faible;7.0;Highly Urban/ Urban;07/03/2022 18:50;dev_integral;Basse;26600
+1135;F;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;PhD;Private;SUV;Faible;12.0;Highly Urban/ Urban;11/05/2022 19:57;dev_integral;Moyenne;5100
+1136;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;Masters;Private;SUV;Moyen;;Highly Urban/ Urban;25/05/2022 05:18;dev_express;Basse;56170
+1137;F;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;Bachelors;Private;Sports Car;Elevé;2.0;Highly Urban/ Urban;07/02/2022 06:33;dev_integral;Moyenne;59470
+1138;F;Adulte : 25-64 ans;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;10.0;Highly Urban/ Urban;02/03/2022 22:19;dev_express;Basse;27190
+1139;M;Jeune : moins de 25 ans;Aucun;FAUX;[0 - 40K[;High School;Private;Pickup;Moyen;1.0;Highly Urban/ Urban;29/04/2022 09:55;dev_integral;Moyenne;83560
+1140;M;Senior : 65 ans et plus;Un;VRAI;[0 - 40K[;Bachelors;Private;Sports Car;Faible;12.0;Highly Rural/ Rural;27/02/2022 08:10;dev_integral;Basse;18130
+1141;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Commercial;Pickup;Moyen;7.0;Highly Rural/ Rural;10/02/2022 16:53;dev_express;Basse;86280
+1142;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;PhD;Private;Pickup;Moyen;22.0;Highly Urban/ Urban;07/05/2022 12:19;dev_integral;Moyenne;16500
+1143;F;Senior : 65 ans et plus;Plusieurs;VRAI;[80K - 120K[;Bachelors;Commercial;Panel Truck;Faible;;Highly Rural/ Rural;19/05/2022 09:28;dev_integral;Basse;63000
+1144;M;Senior : 65 ans et plus;Aucun;VRAI;[0 - 40K[;High School;Private;Sports Car;Moyen;7.0;Highly Urban/ Urban;24/03/2022 21:00;dev_express;Basse;83300
+1145;M;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;PhD;Private;Minivan;Moyen;21.0;Highly Urban/ Urban;18/01/2022 09:50;dev_express;Basse;56330
+1146;M;Senior : 65 ans et plus;Aucun;VRAI;[60K - 80K[;High School;Private;SUV;Moyen;1.0;Highly Urban/ Urban;14/03/2022 09:34;dev_integral;Basse;11200
+1147;F;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;6.0;Highly Rural/ Rural;25/01/2022 07:45;dev_express;Basse;39700
+1148;F;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;7.0;Highly Urban/ Urban;02/05/2022 07:04;dev_premium;Moyenne;73800
+1149;M;Senior : 65 ans et plus;Aucun;FAUX;[60K - 80K[;Bachelors;Commercial;Minivan;Moyen;10.0;Highly Urban/ Urban;08/04/2022 04:34;dev_express;Basse;22100
+1150;M;Adulte : 25-64 ans;Un;VRAI;[0 - 40K[;High School;Commercial;Pickup;Moyen;9.0;Highly Urban/ Urban;17/05/2022 12:05;dev_express;Basse;4100
+1151;M;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Masters;Commercial;Panel Truck;Moyen;20.0;Highly Urban/ Urban;20/02/2022 04:37;dev_integral;Moyenne;68170
+1152;M;Senior : 65 ans et plus;Aucun;FAUX;[0 - 40K[;High School;Private;SUV;Faible;8.0;Highly Rural/ Rural;03/01/2022 02:02;dev_integral;Moyenne;8000
+1153;F;Adulte : 25-64 ans;Aucun;FAUX;>120K;Masters;Private;Minivan;Moyen;20.0;Highly Urban/ Urban;27/05/2022 05:18;dev_express;Basse;44000
+1154;M;Jeune : moins de 25 ans;Aucun;FAUX;[40K - 60K[;High School;Private;Minivan;Moyen;1.0;Highly Rural/ Rural;22/05/2022 15:08;dev_express;Basse;37300
+1155;F;Adulte : 25-64 ans;Aucun;FAUX;[60K - 80K[;High School;Private;Minivan;Moyen;1.0;Highly Urban/ Urban;23/01/2022 01:08;dev_integral;Moyenne;87200
+1156;F;Senior : 65 ans et plus;Aucun;FAUX;[80K - 120K[;Bachelors;Commercial;Van;Moyen;4.0;Highly Urban/ Urban;19/01/2022 20:37;dev_premium;Moyenne;74170
+1157;M;Senior : 65 ans et plus;Un;FAUX;[40K - 60K[;High School;Private;Minivan;Faible;1.0;Highly Rural/ Rural;08/05/2022 18:08;dev_integral;Moyenne;79500
